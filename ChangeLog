@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: burnett  Wed Jun 16 21:53:22 PDT 2004
+reconRootData/src
+
+Removed Files:
+      Tag: v4r5
+	ReconHeader.cxx 
+Log Message:
+use RootPolicy pattern
+    *
+------------------------------------------------------------
+User: burnett  Wed Jun 16 21:53:22 PDT 2004
 reconRootData/reconRootData
 
 Added Files:
