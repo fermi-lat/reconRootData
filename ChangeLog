@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: heather  Thu May 16 18:35:58 PDT 2002
+reconRootData/src
+
+Modified Files:
+	CalCluster.cxx CalRangeRecData.cxx CalRecon.cxx 
+	CalXtalRecData.cxx ReconEvent.cxx TkrRecon.cxx 
+	TkrSiCluster.cxx 
+Log Message:
+fix up CAL classes to work..update TkrRecon to approach
+working
+    *
+------------------------------------------------------------
 User: heather  Thu May 16 18:28:25 PDT 2002
 reconRootData/src/test
 
