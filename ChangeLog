@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: tlindner  Fri Mar 30 15:23:07 PST 2001
+reconRootData/fragments recon_dorootcint_header
+
+Modified Files:
+	recon_dorootcint_header 
+Log Message:
+fix VPATH
+    *
+------------------------------------------------------------
 User: tlindner  Fri Mar 30 15:22:46 PST 2001
 reconRootData/cmt requirements
 
