@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: usher  Thu May 16 21:23:40 PDT 2002
+reconRootData/src
+
+Modified Files:
+	TkrRecon.cxx 
+Log Message:
+Modifications to get Tkr classes to compile
+Still don't know if they actually work yet...
+
+    *
+------------------------------------------------------------
+User: usher  Thu May 16 21:23:40 PDT 2002
 reconRootData/reconRootData
 
 Modified Files:
