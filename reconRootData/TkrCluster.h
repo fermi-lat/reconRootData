@@ -102,7 +102,7 @@ public:
     inline int getStatusWord() const { return m_flag; }
     /// retrieve end
     inline int getEnd() const {
-        return ( m_flag&maskVersion ? m_flag&(maskEnd>>shiftEnd) : 2 );
+        return ( m_flag&maskVersion ? (m_flag&maskEnd)>>shiftEnd : 2 );
     }
     /// retrieve version number (old-style is zero)
     inline int getVersion() const {
