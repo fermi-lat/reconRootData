@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: usher  Wed Dec 15 15:49:14 PST 2004
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Similar to Event mods: Including new Tracker PDS classes and removing the now obsolete ones. 
+Also modify linkdef.h and requirements so that rootcint will do the right thing. 
+    *
+------------------------------------------------------------
 TAG
 Tag name: v4r10, operation: add
 Package: reconRootData
