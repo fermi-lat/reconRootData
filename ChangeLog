@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: heather  Thu Mar  7 14:07:38 PST 2002
+reconRootData/cmt
+
+Modified Files:
+      Tag: cmt-patches-v1r10p20011126
+	requirements 
+Added Files:
+      Tag: cmt-patches-v1r10p20011126
+	cd.cmd dorootcint.bat dorootcint.csh dorootcint.sh 
+Log Message:
+automate rootcint generation on windows
+    *
+------------------------------------------------------------
 User: heather  Thu Feb 14 06:55:55 PST 2002
 reconRootData/cmt
 
