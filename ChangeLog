@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: als  Fri Jan  4 16:33:14 PST 2002
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+remove hardcoded path for libPhysics.so
+
+    *
+------------------------------------------------------------
 User: heather  Wed Dec  5 09:10:14 PST 2001
 reconRootData/doc
 
