@@ -3,6 +3,14 @@ TAG activity
 User: heather  Mon Jul 23 09:36:52 2001
 Tag name: v1r2p1
 Tag operation: add
+Repository: /nfs/slac/g/glast/ground/cvs/reconRootData/doc
+File(s) and revision(s): reconrootdata.htm
+    *
+------------------------------------------------------------
+TAG activity
+User: heather  Mon Jul 23 09:36:52 2001
+Tag name: v1r2p1
+Tag operation: add
 Repository: /nfs/slac/g/glast/ground/cvs/reconRootData/cmt
 File(s) and revision(s): .cvsignore
     *
