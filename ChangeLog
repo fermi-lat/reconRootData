@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Aug 26 19:35:26 PDT 2004
+reconRootData/src
+
+Modified Files:
+	ReconEvent.cxx 
+Log Message:
+add event flags
+    *
+------------------------------------------------------------
 User: heather  Thu Aug 26 19:35:16 PDT 2004
 reconRootData/reconRootData
 
