@@ -1,31 +1,4 @@
 ------------------------------------------------------------
-User: burnett  Mon Jun 21 10:27:55 PDT 2004
-reconRootData/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-remove bad CR's
-    *
-------------------------------------------------------------
-User: burnett  Sun Jun 20 11:07:32 PDT 2004
-reconRootData/doc
-
-Modified Files:
-	release.notes 
-Log Message:
-tagging after converting to comprehsnsive RootPolicy
-    *
-------------------------------------------------------------
-User: burnett  Sun Jun 20 11:07:32 PDT 2004
-reconRootData/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-tagging after converting to comprehsnsive RootPolicy
-    *
-------------------------------------------------------------
 User: heather  Fri Jun 18 23:14:57 PDT 2004
 reconRootData/cmt
 
