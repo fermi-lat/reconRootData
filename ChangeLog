@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Dec  5 09:09:23 PST 2001
+reconRootData/reconRootData
+
+Removed Files:
+	mainpage.h 
+Log Message:
+move mainpage.h to src directory
+    *
+------------------------------------------------------------
 User: heather  Wed Dec  5 09:03:51 PST 2001
 reconRootData/src
 
