@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Sun Dec 26 21:12:32 PST 2004
+reconRootData/reconRootData
+
+Modified Files:
+	TkrCluster.h 
+Log Message:
+patch to fix unix compile error
+
+    *
+------------------------------------------------------------
 User: lsrea  Sun Dec 26 21:12:31 PST 2004
 reconRootData/doc
 
