@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Tue Nov 19 09:34:43 PST 2002
+reconRootData/reconRootData
+
+Modified Files:
+	TkrParams.h TkrFitHit.h TkrCovMat.h 
+Log Message:
+update to fix handling of TkrParams and TkrCovMat to really mirror what is
+present in the Event package for the TDS
+    *
+------------------------------------------------------------
 User: heather  Tue Nov 19 09:30:43 PST 2002
 reconRootData/doc
 
