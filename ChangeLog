@@ -1,4 +1,21 @@
 ------------------------------------------------------------
+User: usher  Wed May 15 13:45:16 PDT 2002
+reconRootData/src
+
+Modified Files:
+	TkrRecon.cxx TkrTrack.cxx 
+Added Files:
+	TkrCandHit.cxx TkrCandTrack.cxx TkrCovMat.cxx TkrFitHit.cxx 
+	TkrHitPlane.cxx TkrParams.cxx TkrVertex.cxx 
+Removed Files:
+	TkrGamma.cxx TkrHit.cxx TkrLocator.cxx 
+Log Message:
+Modifications for new tracker root output classes:
+1) Removed the unused TkrGamma, TkrHit and TkrLocator files
+2) Add the new files for pat rec, fit track and vertex output
+
+    *
+------------------------------------------------------------
 User: usher  Wed May 15 13:42:58 PDT 2002
 reconRootData/reconRootData
 
