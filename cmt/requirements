@@ -1,5 +1,5 @@
 package reconRootData
-version v3r1
+version v2r1p2
 
 use GlastPolicy
 use digiRootData
@@ -11,6 +11,14 @@ apply_pattern packageShr
 apply_pattern ld_library_path
 # put this back in for glastRootIO
 apply_pattern package_linkopts
+
+
+# add the ROOT Physics library to the list for linking
+macro_append ROOT_linkopts " -L${ROOT_PATH}/lib -lPhysics " \
+             VisualC       " ${ROOT_PATH}/lib/libPhysics.lib "
+
+macro reconRootData_shlibflags "" \
+      VisualC            " ${use_linkopts} "
 
 #--------------------------------------------------------------
 private
@@ -27,12 +35,6 @@ make_fragment recon_dorootcint_header
 make_fragment recon_dorootcint -header=recon_dorootcint_header
 document recon_dorootcint ReconRootDataCint CINTFILE=../reconRootData/ReconCint.cxx
 
-# add the ROOT Physics library to the list for linking
-macro_append ROOT_linkopts " ${ROOT_PATH}/lib/libPhysics.so " \
-             VisualC       " ${ROOT_PATH}/lib/libPhysics.lib "
-
-macro reconRootData_shlibflags "" \
-      VisualC            " ${use_linkopts} "
 
 apply_pattern package_headers
 apply_pattern package_include
