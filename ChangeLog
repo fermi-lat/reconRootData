@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Apr  3 09:51:44 PDT 2001
+reconRootData/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+use ROOT_linkopts to link in the ROOT Physics library
+    *
+------------------------------------------------------------
 User: heather  Tue Apr  3 07:34:04 PDT 2001
 reconRootData/reconRootData ReconLinkDef.h
 
