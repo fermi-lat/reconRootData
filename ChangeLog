@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: lsrea  Sun Dec 26 21:12:31 PST 2004
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+patch to fix unix compile error
+
+    *
+------------------------------------------------------------
+User: lsrea  Sun Dec 26 21:12:31 PST 2004
 reconRootData/cmt
 
 Modified Files:
