@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu May 16 18:28:25 PDT 2002
+reconRootData/src/test
+
+Added Files:
+	.rootrc leaktest.cxx testReconClasses.cxx 
+Log Message:
+add test routines
+    *
+------------------------------------------------------------
 User: heather  Thu May 16 18:26:25 PDT 2002
 reconRootData/src/test
 
