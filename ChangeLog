@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jun 12 00:31:27 PDT 2002
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx 
+Log Message:
+pass vector into construction and initialize as const
+    *
+------------------------------------------------------------
 User: heather  Wed Jun 12 00:30:22 PDT 2002
 reconRootData/reconRootData
 
