@@ -3,6 +3,14 @@ TAG activity
 User: heather  Mon Jul 23 09:36:52 2001
 Tag name: v1r2p1
 Tag operation: add
+Repository: /nfs/slac/g/glast/ground/cvs/reconRootData/src
+File(s) and revision(s): CalCluster.cxx
+    *
+------------------------------------------------------------
+TAG activity
+User: heather  Mon Jul 23 09:36:52 2001
+Tag name: v1r2p1
+Tag operation: add
 Repository: /nfs/slac/g/glast/ground/cvs/reconRootData/reconRootData
 File(s) and revision(s): .def
     *
