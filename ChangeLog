@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: heather  Mon May 20 15:02:27 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	TkrCandHit.h TkrCandTrack.h TkrCovMat.h TkrHitPlane.h 
+	TkrParams.h TkrRecon.h TkrSiCluster.h TkrTrack.h TkrVertex.h 
+Log Message:
+feeble attempt to get TkrRecon data working - using TObjArray
+in top-level TkrRecon classes - leaving vectors in the lower
+level classes
+    *
+------------------------------------------------------------
 User: usher  Fri May 17 19:49:15 PDT 2002
 reconRootData/src
 
