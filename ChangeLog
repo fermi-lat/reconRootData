@@ -1,4 +1,24 @@
 ------------------------------------------------------------
+User: usher  Wed May 15 13:42:58 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	TkrRecon.h TkrTrack.h 
+Added Files:
+	TkrCandHit.h TkrCandTrack.h TkrCovMat.h TkrFitHit.h 
+	TkrHitPlane.h TkrParams.h TkrVertex.h 
+Removed Files:
+	TkrGamma.h TkrHit.h TkrLocator.h 
+Log Message:
+Modifications for new Tracker root output classes
+1) Remove old and now unused output classes TkrGamma, TkrHit, TkrLocator
+2) Add new classes 
+   - Pattern Recognition: TkrCandHit, TkrCandTrack
+   - Fit Track: TkrTrack, TkrHitPlane, TkrFitHit, TkrParams, TkrCovMat
+   - Vertex: TkrVertex
+
+    *
+------------------------------------------------------------
 User: heather  Wed May 15 12:29:22 PDT 2002
 reconRootData/src
 
