@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed May 15 14:09:01 PDT 2002
+reconRootData/reconRootData
+
+Removed Files:
+	ReconCint.cxx ReconCint.h 
+Log Message:
+removing cint files - will be generated automatically
+    *
+------------------------------------------------------------
 User: usher  Wed May 15 13:45:16 PDT 2002
 reconRootData/src
 
