@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Dec  5 09:03:51 PST 2001
+reconRootData/src
+
+Added Files:
+	mainpage.h 
+Log Message:
+move mainpage.h to src directory
+    *
+------------------------------------------------------------
 User: heather  Wed Oct 31 09:11:35 PST 2001
 reconRootData/doc Doxyfile
 
