@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: tlindner  Fri Mar 30 15:24:37 PST 2001
+reconRootData/reconRootData mainpage.h ReconCint.cxx ReconCint.h
+
+Modified Files:
+	ReconCint.cxx ReconCint.h 
+Added Files:
+	mainpage.h 
+Log Message:
+mainpage.h file go in the include directory
+    *
+------------------------------------------------------------
 User: tlindner  Fri Mar 30 15:24:06 PST 2001
 reconRootData/src mainpage.h
 
