@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: richard  Fri May  3 08:42:59 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h 
+Added Files:
+	CalRangeRecData.h CalXtalRecData.h 
+Log Message:
+new for CalREcon v4 TDS
+    *
+------------------------------------------------------------
 User: heather  Thu Mar  7 14:10:05 PST 2002
 reconRootData/reconRootData
 
