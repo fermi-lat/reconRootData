@@ -1,5 +1,18 @@
 ------------------------------------------------------------
 User: usher  Wed Dec 15 15:49:15 PST 2004
+reconRootData/src
+
+Modified Files:
+	TkrCluster.cxx TkrRecon.cxx TkrTrack.cxx TkrVertex.cxx 
+Removed Files:
+	TkrCandHit.cxx TkrCandTrack.cxx TkrCovMat.cxx TkrFitHit.cxx 
+	TkrHitPlane.cxx TkrKalFitTrack.cxx TkrParams.cxx 
+Log Message:
+Similar to Event mods: Including new Tracker PDS classes and removing the now obsolete ones. 
+Also modify linkdef.h and requirements so that rootcint will do the right thing. 
+    *
+------------------------------------------------------------
+User: usher  Wed Dec 15 15:49:15 PST 2004
 reconRootData/reconRootData
 
 Modified Files:
