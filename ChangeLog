@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Thu Mar  3 09:10:22 PST 2005
+reconRootData
+
+Modified Files:
+	ChangeLog 
+Log Message:
+prepare for tag v3r3p4: propagate TkrTrack.h bug to reconRootData; no change in interface
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r3p3, operation: add
 Package: reconRootData
