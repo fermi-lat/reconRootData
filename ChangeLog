@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jan 14 12:20:41 PST 2004
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+remove std:: from vector data members
+    *
+------------------------------------------------------------
 User: heather  Fri Jan  9 08:26:43 PST 2004
 reconRootData/src
 
