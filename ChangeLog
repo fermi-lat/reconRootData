@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: usher  Fri May 17 19:49:14 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	TkrCovMat.h TkrFitHit.h TkrParams.h 
+Log Message:
+Modifications needed to get classes to properly copy themselves 
+(well, at least they do copy now, can't say it is really "proper")
+
+    *
+------------------------------------------------------------
 User: usher  Thu May 16 21:23:40 PDT 2002
 reconRootData/src
 
