@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Wed Jun 16 21:53:22 PDT 2004
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use RootPolicy pattern
+    *
+------------------------------------------------------------
 User: heather  Thu May 27 23:04:37 PDT 2004
 reconRootData/doc
 
