@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: tlindner  Fri Mar 30 17:19:40 PST 2001
+reconRootData/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+Linked the shareable to the Root Physics library to remove some
+unresolved references when loading in root (on linux).
+
+    *
+------------------------------------------------------------
 User: tlindner  Fri Mar 30 15:25:32 PST 2001
 reconRootData/reconRootData ReconCint.cxx ReconCint.h
 
