@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: lsrea  Tue Jan 25 13:57:35 PST 2005
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx CalCluster.cxx CalRangeRecData.cxx CalRecon.cxx 
+	CalXtalRecData.cxx ReconEvent.cxx TkrCluster.cxx TkrRecon.cxx 
+	TkrTrack.cxx TkrTrackHit.cxx TkrTrackParams.cxx TkrVertex.cxx 
+Log Message:
+prepare for patch tag v5r2p1: fix test program, and unix warnings
+
+    *
+------------------------------------------------------------
+User: lsrea  Tue Jan 25 13:57:35 PST 2005
 reconRootData/doc
 
 Modified Files:
