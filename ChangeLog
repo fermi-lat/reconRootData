@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: usher  Thu May 16 21:23:40 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	TkrCandHit.h TkrRecon.h TkrTrack.h TkrVertex.h 
+Log Message:
+Modifications to get Tkr classes to compile
+Still don't know if they actually work yet...
+
+    *
+------------------------------------------------------------
 User: heather  Thu May 16 18:35:58 PDT 2002
 reconRootData/src
 
