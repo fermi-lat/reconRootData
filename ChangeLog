@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue May  1 14:39:39 PDT 2001
+reconRootData/reconRootData ReconCint.cxx ReconCint.h
+
+Added Files:
+	ReconCint.cxx ReconCint.h 
+Log Message:
+adding in the cint files for now..until we can fix the reqs file
+    *
+------------------------------------------------------------
 User: heather  Thu Apr 26 16:44:03 PDT 2001
 reconRootData/cmt requirements
 
