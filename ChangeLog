@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Thu Apr 26 16:44:03 PDT 2001
+reconRootData/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+updates to requirements for new cmt...note that on windows,
+we must execute dorootcint.bat by hand..for now
+    *
+------------------------------------------------------------
 TAG activity
 User: heather  Tue Apr 24 15:46:31 2001
 Tag name: v0
