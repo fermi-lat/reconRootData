@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: usher  Fri May 17 19:49:15 PDT 2002
+reconRootData/src
+
+Modified Files:
+	TkrCandHit.cxx TkrCandTrack.cxx TkrCovMat.cxx TkrFitHit.cxx 
+	TkrParams.cxx TkrVertex.cxx 
+Log Message:
+Modifications needed to get classes to properly copy themselves 
+(well, at least they do copy now, can't say it is really "proper")
+
+    *
+------------------------------------------------------------
 User: usher  Fri May 17 19:49:14 PDT 2002
 reconRootData/reconRootData
 
