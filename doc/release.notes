@@ -2,6 +2,7 @@
  package reconRootData
  package manager:H.Kelly
 @verbatim
+v4r10gr0  10-jan-05  : LSR tag on the branch GR-v4r7
 v4r10     13-dec-04  : LSR modify for new TkrCluster (I&T version)
 v4r9      27-aug-04  : HMK Add new event flags in ReconEvent
 v4r8p2    10-aug-04  : HMK Use new RootcintPolicy replacing RootPolicy
