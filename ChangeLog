@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jun 11 23:38:57 PDT 2002
+reconRootData/src/test
+
+Modified Files:
+	leaktest.cxx testReconClasses.cxx 
+Log Message:
+update tests for AcdRecon
+    *
+------------------------------------------------------------
 User: heather  Tue Jun 11 23:37:50 PDT 2002
 reconRootData/src
 
