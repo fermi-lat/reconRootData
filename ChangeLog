@@ -1,4 +1,18 @@
 ------------------------------------------------------------
+User: heather  Thu May 16 18:25:02 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h CalRangeRecData.h CalRecon.h CalXtalRecData.h 
+	ReconEvent.h ReconLinkDef.h TkrCandHit.h TkrCandTrack.h 
+	TkrCovMat.h TkrFitHit.h TkrHitPlane.h TkrParams.h TkrRecon.h 
+	TkrSiCluster.h TkrTrack.h TkrVertex.h 
+Log Message:
+update CAL classes to work
+update TKR classes -mostly modify #ifdef statements to be ROOT
+specific
+    *
+------------------------------------------------------------
 User: heather  Thu May 16 18:06:57 PDT 2002
 reconRootData/cmt
 
