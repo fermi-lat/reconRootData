@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Tue Apr  3 10:23:32 PDT 2001
+reconRootData/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+explicitly use Root v3r0p6 & TBEvent v2r2 (which uses this newer
+version of Root)
+    *
+------------------------------------------------------------
 TAG activity
 User: heather  Tue Apr  3 09:58:59 2001
 Tag name: v0r1
