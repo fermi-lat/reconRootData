@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: heather  Wed May 15 14:29:15 PDT 2002
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Added Files:
+	cd.cmd dorootcint.bat dorootcint.csh dorootcint.sh 
+Log Message:
+updating rootcint access
+    *
+------------------------------------------------------------
 User: heather  Wed May 15 14:13:33 PDT 2002
 reconRootData/src
 
