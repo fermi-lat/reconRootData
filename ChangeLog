@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Wed Jul  3 10:34:23 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h TkrCandHit.h 
+Log Message:
+add some extra acces methods to CalCluster and fix capitalization
+in TkrCandHit.h
+    *
+------------------------------------------------------------
 User: heather  Wed Jun 12 00:31:27 PDT 2002
 reconRootData/src
 
