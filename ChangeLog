@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: burnett  Tue Aug 27 11:29:48 PDT 2002
+reconRootData/cmt
+
+Modified Files:
+	.cvsignore requirements 
+Removed Files:
+	cleanup.csh cleanup.sh 
+Log Message:
+library has to pick up the rootcint output from the header folder
+    *
+------------------------------------------------------------
 User: heather  Tue Aug 27 03:47:38 PDT 2002
 reconRootData/src
 
