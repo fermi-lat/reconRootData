@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri May 24 13:53:12 PDT 2002
+reconRootData/src
+
+Modified Files:
+	CalCluster.cxx 
+Log Message:
+add ctor to set energy sum and position
+    *
+------------------------------------------------------------
 User: heather  Fri May 24 13:52:43 PDT 2002
 reconRootData/reconRootData
 
