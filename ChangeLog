@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Mon Aug 27 18:38:59 PDT 2001
+reconRootData/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+convert to use package shr
+    *
+------------------------------------------------------------
 User: heather  Tue Aug  7 18:58:48 PDT 2001
 reconRootData/reconRootData ReconCint.cxx ReconCint.h
 
