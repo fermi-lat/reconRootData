@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu May 23 09:23:28 PDT 2002
+reconRootData/fragments
+
+Modified Files:
+	recon_dorootcint_header 
+Log Message:
+fix automatic rootcint generation for linux
+    *
+------------------------------------------------------------
 User: heather  Mon May 20 19:02:21 PDT 2002
 reconRootData/src
 
