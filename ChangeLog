@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Oct 31 09:11:35 PST 2001
+reconRootData/doc Doxyfile
+
+Added Files:
+	Doxyfile 
+Log Message:
+doxygen ini file
+    *
+------------------------------------------------------------
 User: heather  Fri Oct 26 12:02:19 PDT 2001
 reconRootData/reconRootData CalCluster.h ReconCint.cxx ReconLinkDef.h TkrGamma.h
 
