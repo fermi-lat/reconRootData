@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Oct 26 12:02:19 PDT 2001
+reconRootData/reconRootData CalCluster.h ReconCint.cxx ReconLinkDef.h TkrGamma.h
+
+Modified Files:
+	CalCluster.h ReconCint.cxx ReconLinkDef.h TkrGamma.h 
+Log Message:
+Fix memory leaks and use automatic streamers
+    *
+------------------------------------------------------------
 User: heather  Fri Oct 26 12:01:52 PDT 2001
 reconRootData/src CalCluster.cxx CalRecon.cxx Recon.cxx TkrGamma.cxx TkrRecon.cxx TkrTrack.cxx
 
