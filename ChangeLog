@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jan 16 12:12:35 PST 2004
+reconRootData//cmt
+
+Modified Files:
+	requirements 
+Log Message:
+reintroduce std::vector namespace for linux
+    *
+------------------------------------------------------------
 User: heather  Wed Jan 14 12:22:47 PST 2004
 reconRootData/reconRootData
 
