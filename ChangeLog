@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: usher  Fri Dec 19 13:58:40 PST 2003
+reconRootData/src
+
+Modified Files:
+	TkrVertex.cxx 
+Log Message:
+Do not Clear the TkrCovMat since TMatrixD is quite unhappy when you do.
+
+    *
+------------------------------------------------------------
 User: heather  Mon Nov 17 11:53:33 PST 2003
 reconRootData/doc
 
