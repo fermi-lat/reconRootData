@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Sep 20 09:53:53 PDT 2002
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+update version and remove TkrSiCluster and replace with TkrCluster
+    *
+------------------------------------------------------------
 User: heather  Fri Sep 20 09:30:57 PDT 2002
 reconRootData/doc
 
