@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri May 24 13:53:50 PDT 2002
+reconRootData/src/test
+
+Modified Files:
+	testReconClasses.cxx 
+Log Message:
+add ctor to set energy sum and position
+    *
+------------------------------------------------------------
 User: heather  Fri May 24 13:53:12 PDT 2002
 reconRootData/src
 
