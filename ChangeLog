@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Aug 11 10:15:47 PDT 2004
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use new RootcintPolicy rather than RootPolicy
+    *
+------------------------------------------------------------
 User: heather  Thu Jul 22 15:33:09 PDT 2004
 reconRootData/reconRootData
 
