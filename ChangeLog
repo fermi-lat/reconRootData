@@ -1,5 +1,62 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelase-v4r7, operation: add
+Package: reconRootData
+User: lsrea  Mon Jan 10 10:59:50 2005
+Files:
+  reconRootData/.cvsignore  1.2
+  reconRootData/ChangeLog  1.235
+  reconRootData/cmt/.cvsignore  1.2
+  reconRootData/cmt/requirements  1.58
+  reconRootData/cmt/Makefile  1.1.1.1
+  reconRootData/doc/release.notes  1.35
+  reconRootData/doc/reconRootData.html  1.1
+  reconRootData/doc/Doxyfile  1.3
+  reconRootData/doc/images/reconTree.gif  1.2
+  reconRootData/doc/styles/site.css  1.1
+  reconRootData/reconRootData/TkrCovMat.h  1.7
+  reconRootData/reconRootData/TkrVertex.h  1.8
+  reconRootData/reconRootData/CalXtalRecData.h  1.8
+  reconRootData/reconRootData/TkrFitHit.h  1.6
+  reconRootData/reconRootData/TkrTrack.h  1.10
+  reconRootData/reconRootData/ReconEvent.h  1.7
+  reconRootData/reconRootData/TkrRecon.h  1.9
+  reconRootData/reconRootData/TkrKalFitTrack.h  1.5
+  reconRootData/reconRootData/CalCluster.h  1.12
+  reconRootData/reconRootData/TkrParams.h  1.7
+  reconRootData/reconRootData/TkrHitPlane.h  1.8
+  reconRootData/reconRootData/CalRecon.h  1.5
+  reconRootData/reconRootData/AcdRecon.h  1.9
+  reconRootData/reconRootData/CalRangeRecData.h  1.6
+  reconRootData/reconRootData/LinkDef.h  1.1
+  reconRootData/reconRootData/TkrCandTrack.h  1.8
+  reconRootData/reconRootData/TkrCluster.h  1.3
+  reconRootData/reconRootData/TkrCandHit.h  1.8
+  reconRootData/src/TkrCluster.cxx  1.1
+  reconRootData/src/TkrCovMat.cxx  1.5
+  reconRootData/src/CalXtalRecData.cxx  1.4
+  reconRootData/src/TkrKalFitTrack.cxx  1.1
+  reconRootData/src/TkrFitHit.cxx  1.3
+  reconRootData/src/TkrCandHit.cxx  1.4
+  reconRootData/src/TkrVertex.cxx  1.4
+  reconRootData/src/AcdRecon.cxx  1.4
+  reconRootData/src/CalRangeRecData.cxx  1.3
+  reconRootData/src/mainpage.h  1.7
+  reconRootData/src/TkrParams.cxx  1.3
+  reconRootData/src/CalRecon.cxx  1.5
+  reconRootData/src/CalCluster.cxx  1.8
+  reconRootData/src/TkrTrack.cxx  1.5
+  reconRootData/src/ReconEvent.cxx  1.5
+  reconRootData/src/TkrCandTrack.cxx  1.3
+  reconRootData/src/TkrRecon.cxx  1.10
+  reconRootData/src/TkrHitPlane.cxx  1.4
+  reconRootData/src/test/testReconClasses.cxx  1.13
+  reconRootData/src/test/leaktest.cxx  1.10
+  reconRootData/src/test/.rootrc  1.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: v5r1p2, operation: add
 Package: reconRootData
 User: lsrea  Mon Dec 27 08:40:47 2004
