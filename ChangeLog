@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: usher  Mon Dec 20 10:16:49 PST 2004
+reconRootData/src/test
+
+Modified Files:
+	testReconClasses.cxx 
+Log Message:
+Fix test program, update tag
+    *
+------------------------------------------------------------
+User: usher  Mon Dec 20 10:16:49 PST 2004
 reconRootData/src
 
 Modified Files:
