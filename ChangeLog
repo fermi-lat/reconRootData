@@ -1,5 +1,19 @@
 ------------------------------------------------------------
 User: usher  Thu Dec 19 13:01:56 PST 2002
+reconRootData/src
+
+Added Files:
+	TkrKalFitTrack.cxx 
+Log Message:
+Added:
+  TkrKalFitTrack.h and .cxx - new fit track PDS class definition
+Modified:
+  ReconLinkDef.h - included reference to the new class
+  TkrRecon.h - Now accumulates fit tracks as TObjects
+
+    *
+------------------------------------------------------------
+User: usher  Thu Dec 19 13:01:56 PST 2002
 reconRootData/reconRootData
 
 Modified Files:
