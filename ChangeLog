@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Sun Dec 26 21:12:31 PST 2004
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+patch to fix unix compile error
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r1, operation: add
 Package: reconRootData
