@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: heather  Thu Jul 22 15:33:09 PDT 2004
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h CalRangeRecData.h CalXtalRecData.h 
+Removed Files:
+	ReconLinkDef.h 
+Log Message:
+moved all idents classes to commonRootData
+    *
+------------------------------------------------------------
 User: heather  Thu Jul 22 15:32:14 PDT 2004
 reconRootData/doc
 
