@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: heather  Thu Mar  7 14:10:05 PST 2002
+reconRootData/reconRootData
+
+Removed Files:
+      Tag: cmt-patches-v1r10p20011126
+	dorootcint.bat ReconCint.cxx ReconCint.h 
+Log Message:
+removing old dorootcint.bat file and cint files, they are now 
+automatically generated on both windows and linux
+    *
+------------------------------------------------------------
 User: heather  Thu Mar  7 14:07:38 PST 2002
 reconRootData/cmt
 
