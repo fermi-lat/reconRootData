@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Aug 31 12:30:40 PDT 2001
+reconRootData/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+put ld_library_path back as well linkopts to get it to work on linux
+    *
+------------------------------------------------------------
 User: burnett  Tue Aug 28 08:02:15 PDT 2001
 reconRootData/cmt requirements
 
