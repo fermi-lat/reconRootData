@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: usher  Tue Jun 11 12:35:29 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	TkrHitPlane.h 
+Log Message:
+Add TkrHitPlane data member for "Active Distance" and access method
+
+    *
+------------------------------------------------------------
 User: heather  Fri May 24 13:53:50 PDT 2002
 reconRootData/src/test
 
