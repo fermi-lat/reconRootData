@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: lsrea  Sun Dec 26 15:21:26 PST 2004
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+prepare for tag v5r1; synch with mods to Event::TkrCluster
+
+    *
+------------------------------------------------------------
+User: lsrea  Sun Dec 26 15:21:26 PST 2004
 reconRootData/cmt
 
 Modified Files:
