@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: richard  Fri May  3 08:43:37 PDT 2002
+reconRootData/src
+
+Modified Files:
+	CalCluster.cxx 
+Added Files:
+	CalRangeRecData.cxx CalXtalRecData.cxx 
+Log Message:
+new for CalREcon v4 TDS
+    *
+------------------------------------------------------------
 User: richard  Fri May  3 08:42:59 PDT 2002
 reconRootData/reconRootData
 
