@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Oct  2 07:02:14 PDT 2002
+reconRootData/src/test
+
+Modified Files:
+	testReconClasses.cxx leaktest.cxx 
+Log Message:
+update test to include energy and id collections in AcdRecon
+    *
+------------------------------------------------------------
 User: heather  Wed Oct  2 07:01:47 PDT 2002
 reconRootData/src
 
