@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Jul 22 15:32:14 PDT 2004
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+moved all idents classes into commonRootData
+    *
+------------------------------------------------------------
 User: heather  Thu Jul 22 15:31:48 PDT 2004
 reconRootData/cmt
 
