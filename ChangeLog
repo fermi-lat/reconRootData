@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Aug 27 14:42:38 PDT 2002
+reconRootData/src/test
+
+Modified Files:
+	testReconClasses.cxx 
+Log Message:
+fix test for updated TkrCovMat
+    *
+------------------------------------------------------------
 User: burnett  Tue Aug 27 11:29:48 PDT 2002
 reconRootData/cmt
 
