@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu May 23 10:56:39 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	TkrParams.h 
+Log Message:
+Fix TVectorD ctor
+    *
+------------------------------------------------------------
 User: heather  Thu May 23 09:25:21 PDT 2002
 reconRootData/cmt
 
