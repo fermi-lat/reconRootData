@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: usher  Wed Dec 15 16:10:09 PST 2004
+reconRootData/reconRootData
+
+Added Files:
+	TkrTrackHit.h TkrTrackParams.h 
+Log Message:
+Include TkrRecon PDS files I forgot to "add" in the checkin. 
+Tagging v5r0p1
+    *
+------------------------------------------------------------
+User: usher  Wed Dec 15 16:10:09 PST 2004
 reconRootData/doc
 
 Modified Files:
