@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: tlindner  Fri Mar 30 15:22:46 PST 2001
+reconRootData/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+don't need this include path
+    *
+------------------------------------------------------------
 User: heather  Fri Mar 30 14:45:03 PST 2001
 reconRootData - Imported sources
 
