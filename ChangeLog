@@ -1,0 +1,53 @@
+------------------------------------------------------------
+User: heather  Fri Mar 30 14:45:03 PST 2001
+reconRootData - Imported sources
+
+Log Message:
+new package for the Recon Root classes
+
+Status:
+
+Vendor Tag:	GLAST
+Release Tags:	v0
+		
+N reconRootData/.cvsignore
+N reconRootData/cmt/cleanup.csh
+N reconRootData/cmt/cleanup.sh
+N reconRootData/cmt/Makefile
+N reconRootData/cmt/requirements
+N reconRootData/cmt/setup.bat
+N reconRootData/cmt/setup.csh
+N reconRootData/cmt/setup.sh
+N reconRootData/fragments/recon_dorootcint_header
+N reconRootData/reconRootData/.def
+N reconRootData/reconRootData/CalCluster.h
+N reconRootData/reconRootData/CalLogEne.h
+N reconRootData/reconRootData/CalRecon.h
+N reconRootData/reconRootData/dorootcint.bat
+N reconRootData/reconRootData/Recon.h
+N reconRootData/reconRootData/ReconCint.cxx
+N reconRootData/reconRootData/ReconCint.h
+N reconRootData/reconRootData/ReconHeader.h
+N reconRootData/reconRootData/ReconLinkDef.h
+N reconRootData/reconRootData/TkrGamma.h
+N reconRootData/reconRootData/TkrHit.h
+N reconRootData/reconRootData/TkrLocator.h
+N reconRootData/reconRootData/TkrRecon.h
+N reconRootData/reconRootData/TkrSiCluster.h
+N reconRootData/reconRootData/TkrTrack.h
+N reconRootData/src/CalCluster.cxx
+N reconRootData/src/CalLogEne.cxx
+N reconRootData/src/CalRecon.cxx
+N reconRootData/src/mainpage.h
+N reconRootData/src/Recon.cxx
+N reconRootData/src/ReconHeader.cxx
+N reconRootData/src/TkrGamma.cxx
+N reconRootData/src/TkrHit.cxx
+N reconRootData/src/TkrLocator.cxx
+N reconRootData/src/TkrRecon.cxx
+N reconRootData/src/TkrSiCluster.cxx
+N reconRootData/src/TkrTrack.cxx
+
+No conflicts created by this import
+
+    *
