@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Mon Dec 20 10:16:49 PST 2004
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Fix test program, update tag
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r0p2, operation: add
 Package: reconRootData
