@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu May 23 09:23:47 PDT 2002
+reconRootData/src
+
+Modified Files:
+	TkrHitPlane.cxx TkrTrack.cxx 
+Log Message:
+Patch use of enum for Linux
+    *
+------------------------------------------------------------
 User: heather  Thu May 23 09:23:28 PDT 2002
 reconRootData/fragments
 
