@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Dec 20 11:08:39 PST 2002
+reconRootData/src/test
+
+Modified Files:
+	testReconClasses.cxx leaktest.cxx 
+Log Message:
+update tests for new TkrKalFitTrack
+    *
+------------------------------------------------------------
 User: heather  Fri Dec 20 09:08:56 PST 2002
 reconRootData/doc
 
