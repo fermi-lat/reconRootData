@@ -3,6 +3,14 @@ TAG activity
 User: heather  Tue Apr  3 10:27:13 2001
 Tag name: v1
 Tag operation: add
+Repository: /nfs/slac/g/glast/ground/cvs/reconRootData/reconRootData
+File(s) and revision(s): .def
+    *
+------------------------------------------------------------
+TAG activity
+User: heather  Tue Apr  3 10:27:13 2001
+Tag name: v1
+Tag operation: add
 Repository: /nfs/slac/g/glast/ground/cvs/reconRootData/fragments
 File(s) and revision(s): recon_dorootcint_header
     *
