@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Wed Jan 14 12:22:47 PST 2004
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h CalCluster.h CalXtalRecData.h TkrCandTrack.h 
+	TkrKalFitTrack.h TkrTrack.h TkrVertex.h 
+Log Message:
+remove std:: from vector data members
+    *
+------------------------------------------------------------
 User: heather  Wed Jan 14 12:20:54 PST 2004
 reconRootData/doc
 
