@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Mon Dec 13 18:40:45 PST 2004
+reconRootData/reconRootData
+
+Modified Files:
+	TkrCluster.h 
+Log Message:
+prepare for tag v4r10: new TkrCluster for I&T
+
+    *
+------------------------------------------------------------
 User: lsrea  Mon Dec 13 18:40:44 PST 2004
 reconRootData/doc
 
