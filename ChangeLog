@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Apr  3 07:34:04 PDT 2001
+reconRootData/reconRootData ReconLinkDef.h
+
+Modified Files:
+	ReconLinkDef.h 
+Log Message:
+removed LogID...that bit will be handled in TBEvent
+    *
+------------------------------------------------------------
 User: tlindner  Fri Mar 30 17:19:40 PST 2001
 reconRootData/cmt requirements
 
