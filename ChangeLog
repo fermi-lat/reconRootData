@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Mon Dec 27 08:40:15 PST 2004
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+prepare for tag v5r1p2: fix test program
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r1p1, operation: add
 Package: reconRootData
