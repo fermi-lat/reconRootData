@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Fri Oct 26 12:01:52 PDT 2001
+reconRootData/src CalCluster.cxx CalRecon.cxx Recon.cxx TkrGamma.cxx TkrRecon.cxx TkrTrack.cxx
+
+Modified Files:
+	CalCluster.cxx CalRecon.cxx Recon.cxx TkrGamma.cxx 
+	TkrRecon.cxx TkrTrack.cxx 
+Log Message:
+Fix memory leaks
+    *
+------------------------------------------------------------
 User: heather  Thu Oct 25 12:55:52 PDT 2001
 reconRootData/src Recon.cxx TkrRecon.cxx
 
