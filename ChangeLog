@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: heather  Tue Jun 11 23:36:47 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	ReconEvent.h ReconLinkDef.h TkrHitPlane.h 
+Added Files:
+	AcdRecon.h 
+Log Message:
+add in AcdRecon
+    *
+------------------------------------------------------------
 User: heather  Tue Jun 11 23:34:14 PDT 2002
 reconRootData/cmt
 
