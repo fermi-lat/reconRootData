@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: usher  Fri Dec 17 10:01:26 PST 2004
+reconRootData/src/test
+
+Modified Files:
+	testReconClasses.cxx 
+Log Message:
+Fix some small problems, also fix test program so it compiles
+    *
+------------------------------------------------------------
+User: usher  Fri Dec 17 10:01:26 PST 2004
 reconRootData/src
 
 Modified Files:
