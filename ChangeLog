@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Fri Jan 16 12:14:40 PST 2004
+reconRootData//reconRootData
+
+Modified Files:
+	TkrCandHit.h TkrCandTrack.h TkrHitPlane.h TkrKalFitTrack.h 
+	TkrTrack.h TkrVertex.h 
+Log Message:
+reintroduce std::vector namespace for linux
+    *
+------------------------------------------------------------
 User: heather  Fri Jan 16 12:13:47 PST 2004
 reconRootData//reconRootData
 
