@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: heather  Wed May 15 16:26:25 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	ReconEvent.h ReconLinkDef.h TkrCandHit.h TkrCandTrack.h 
+	TkrCovMat.h TkrFitHit.h TkrHitPlane.h TkrRecon.h 
+	TkrSiCluster.h TkrTrack.h TkrVertex.h 
+Log Message:
+update TkrRecon class and minor comment cleanup
+    *
+------------------------------------------------------------
 User: heather  Wed May 15 16:20:15 PDT 2002
 reconRootData/cmt
 
