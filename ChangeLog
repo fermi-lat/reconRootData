@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Oct 25 12:55:52 PDT 2001
+reconRootData/src Recon.cxx TkrRecon.cxx
+
+Modified Files:
+	Recon.cxx TkrRecon.cxx 
+Log Message:
+fix up some memory leaks - but do not modify the reading interface
+    *
+------------------------------------------------------------
 User: heather  Thu Oct 25 12:54:59 PDT 2001
 reconRootData/reconRootData Recon.h ReconCint.cxx ReconCint.h TkrRecon.h
 
