@@ -1,4 +1,20 @@
 ------------------------------------------------------------
+User: heather  Fri Sep 20 10:03:04 PDT 2002
+reconRootData/reconRootData
+
+Modified Files:
+	TkrVertex.h TkrTrack.h TkrRecon.h TkrParams.h TkrHitPlane.h 
+	TkrFitHit.h TkrCovMat.h TkrCandTrack.h TkrCandHit.h 
+	ReconLinkDef.h ReconEvent.h CalXtalRecData.h CalRecon.h 
+	CalRangeRecData.h CalCluster.h AcdRecon.h 
+Added Files:
+	TkrCluster.h 
+Removed Files:
+	TkrSiCluster.h 
+Log Message:
+update doc and add TkrCluster to replace TkrSiCluster
+    *
+------------------------------------------------------------
 User: heather  Fri Sep 20 09:57:01 PDT 2002
 reconRootData/doc
 
