@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Jun 28 14:09:35 PDT 2001
+reconRootData/reconRootData ReconCint.h ReconCint.cxx CalLogEne.h
+
+Modified Files:
+	ReconCint.h ReconCint.cxx CalLogEne.h 
+Log Message:
+rename LogID to LogId
+    *
+------------------------------------------------------------
 User: heather  Tue May  1 14:39:39 PDT 2001
 reconRootData/reconRootData ReconCint.cxx ReconCint.h
 
