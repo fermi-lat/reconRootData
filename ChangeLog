@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: burnett  Wed Jun 16 21:53:22 PDT 2004
+reconRootData/reconRootData
+
+Added Files:
+	LinkDef.h 
+Removed Files:
+      Tag: v4r5
+	ReconHeader.h 
+Log Message:
+use RootPolicy pattern
+    *
+------------------------------------------------------------
+User: burnett  Wed Jun 16 21:53:22 PDT 2004
 reconRootData/cmt
 
 Modified Files:
