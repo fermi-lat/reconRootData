@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: tlindner  Fri Mar 30 15:24:06 PST 2001
+reconRootData/src mainpage.h
+
+Removed Files:
+	mainpage.h 
+Log Message:
+mainpage.h file go in the include directory
+    *
+------------------------------------------------------------
 User: tlindner  Fri Mar 30 15:23:07 PST 2001
 reconRootData/fragments recon_dorootcint_header
 
