@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Fri Dec 17 10:01:26 PST 2004
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Fix some small problems, also fix test program so it compiles
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r0p1, operation: add
 Package: reconRootData
