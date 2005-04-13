@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Apr 13 12:05:22 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h CalRangeRecData.h CalXtalRecData.h 
+Log Message:
+use commonRootData namespace throught idents
+    *
+------------------------------------------------------------
 User: heather  Wed Apr 13 12:05:14 PDT 2005
 reconRootData/cmt
 
