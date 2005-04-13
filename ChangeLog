@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Apr 13 12:05:29 PDT 2005
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx CalRangeRecData.cxx CalXtalRecData.cxx 
+Log Message:
+use commonRootData namespace throught idents
+    *
+------------------------------------------------------------
 User: heather  Wed Apr 13 12:05:22 PDT 2005
 reconRootData/reconRootData
 
