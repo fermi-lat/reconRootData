@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Apr 17 23:30:59 PDT 2005
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx CalRangeRecData.cxx CalXtalRecData.cxx 
+Log Message:
+back out commonRootData namespace
+    *
+------------------------------------------------------------
 User: heather  Sun Apr 17 23:30:50 PDT 2005
 reconRootData/reconRootData
 
