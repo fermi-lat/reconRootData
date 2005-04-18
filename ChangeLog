@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Apr 17 23:31:15 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+back out commonRootData namespace
+    *
+------------------------------------------------------------
 User: heather  Sun Apr 17 23:31:10 PDT 2005
 reconRootData/doc
 
