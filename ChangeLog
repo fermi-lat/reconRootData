@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Apr 18 09:37:43 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h 
+Log Message:
+increment AcdRecon classDef to eliminate ROOT warnings about checksum
+    *
+------------------------------------------------------------
 User: heather  Sun Apr 17 23:31:15 PDT 2005
 reconRootData/cmt
 
