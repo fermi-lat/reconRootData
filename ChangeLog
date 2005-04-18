@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Apr 17 23:30:50 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h CalRangeRecData.h CalXtalRecData.h 
+Log Message:
+back out commonRootData namespace
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r4, operation: add
 Package: reconRootData
