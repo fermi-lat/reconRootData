@@ -1,4 +1,51 @@
 ------------------------------------------------------------
+TAG
+Tag name: v5r6p0, operation: add
+Package: reconRootData
+User: heather  Wed Apr 20 14:01:19 2005
+Files:
+  reconRootData/.cvsignore  1.2
+  reconRootData/ChangeLog  1.337
+  reconRootData/cmt/.cvsignore  1.2
+  reconRootData/cmt/requirements  1.75
+  reconRootData/cmt/Makefile  1.1.1.1
+  reconRootData/doc/release.notes  1.56
+  reconRootData/doc/reconRootData.html  1.1
+  reconRootData/doc/Doxyfile  1.3
+  reconRootData/doc/images/reconTree.gif  1.2
+  reconRootData/doc/styles/site.css  1.1
+  reconRootData/reconRootData/CalRangeRecData.h  1.8
+  reconRootData/reconRootData/AcdRecon.h  1.12
+  reconRootData/reconRootData/TkrVertex.h  1.9
+  reconRootData/reconRootData/CalXtalRecData.h  1.10
+  reconRootData/reconRootData/LinkDef.h  1.2
+  reconRootData/reconRootData/TkrTrackParams.h  1.1
+  reconRootData/reconRootData/TkrCluster.h  1.9
+  reconRootData/reconRootData/TkrTrack.h  1.12
+  reconRootData/reconRootData/ReconEvent.h  1.7
+  reconRootData/reconRootData/TkrRecon.h  1.11
+  reconRootData/reconRootData/CalCluster.h  1.12
+  reconRootData/reconRootData/TkrTrackHit.h  1.2
+  reconRootData/reconRootData/CalRecon.h  1.5
+  reconRootData/src/TkrTrackHit.cxx  1.3
+  reconRootData/src/TkrCluster.cxx  1.6
+  reconRootData/src/CalXtalRecData.cxx  1.7
+  reconRootData/src/TkrVertex.cxx  1.6
+  reconRootData/src/AcdRecon.cxx  1.7
+  reconRootData/src/CalRangeRecData.cxx  1.6
+  reconRootData/src/mainpage.h  1.7
+  reconRootData/src/CalRecon.cxx  1.6
+  reconRootData/src/CalCluster.cxx  1.9
+  reconRootData/src/TkrTrack.cxx  1.7
+  reconRootData/src/ReconEvent.cxx  1.6
+  reconRootData/src/TkrTrackParams.cxx  1.2
+  reconRootData/src/TkrRecon.cxx  1.15
+  reconRootData/src/test/testReconClasses.cxx  1.21
+  reconRootData/src/test/leaktest.cxx  1.13
+  reconRootData/src/test/.rootrc  1.1
+
+    *
+------------------------------------------------------------
 User: heather  Wed Apr 20 14:01:06 PDT 2005
 reconRootData/cmt
 
