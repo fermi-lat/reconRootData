@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Apr 19 23:48:01 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+fix up delete from TObjArray to speed up reading
+    *
+------------------------------------------------------------
 User: heather  Tue Apr 19 23:47:20 PDT 2005
 reconRootData/doc
 
