@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Apr 20 14:00:56 PDT 2005
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+try checking to see if the arrays exist before deleting them
+    *
+------------------------------------------------------------
 User: heather  Wed Apr 20 14:00:16 PDT 2005
 reconRootData/src
 
