@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Apr 20 14:00:16 PDT 2005
+reconRootData/src
+
+Modified Files:
+	TkrRecon.cxx 
+Log Message:
+try checking to see if the arrays exist before deleting them
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r6, operation: add
 Package: reconRootData
