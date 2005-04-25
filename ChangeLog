@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Apr 25 14:03:40 PDT 2005
+reconRootData/src
+
+Modified Files:
+	ReconEvent.cxx TkrRecon.cxx 
+Log Message:
+add static function to clean up static data members
+    *
+------------------------------------------------------------
 User: heather  Mon Apr 25 14:03:04 PDT 2005
 reconRootData/src/test
 
