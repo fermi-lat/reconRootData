@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Apr 25 11:14:10 PDT 2005
+reconRootData/src
+
+Modified Files:
+	ReconEvent.cxx 
+Log Message:
+clean up TObjArrays at the end
+    *
+------------------------------------------------------------
 User: heather  Mon Apr 25 11:07:11 PDT 2005
 reconRootData/cmt
 
