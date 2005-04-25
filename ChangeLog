@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Apr 25 11:01:38 PDT 2005
+reconRootData/src
+
+Modified Files:
+	TkrRecon.cxx 
+Log Message:
+provide a mechanism to completely clear static arrays for TObjArray
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r6p0, operation: add
 Package: reconRootData
