@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Apr 25 14:03:59 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	TkrRecon.h 
+Log Message:
+add static function to clean up static data members
+    *
+------------------------------------------------------------
 User: heather  Mon Apr 25 14:03:40 PDT 2005
 reconRootData/src
 
