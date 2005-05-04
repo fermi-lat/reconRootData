@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed May  4 10:27:14 PDT 2005
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+fix static method errror on windows
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r6p1, operation: add
 Package: reconRootData
