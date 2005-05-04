@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed May  4 10:27:23 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+fix static method errror on windows
+    *
+------------------------------------------------------------
 User: heather  Wed May  4 10:27:14 PDT 2005
 reconRootData/doc
 
