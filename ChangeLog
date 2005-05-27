@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri May 27 16:27:42 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use new RootcintPolicy
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r6p2, operation: add
 Package: reconRootData
