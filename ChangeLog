@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Fri Jun  3 05:02:14 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+add CalParams
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r6p3, operation: add
 Package: reconRootData
