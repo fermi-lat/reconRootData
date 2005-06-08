@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: chamont  Wed Jun  8 04:28:46 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h CalParams.h LinkDef.h 
+Added Files:
+	CalClusterLayerData.h 
+Log Message:
+new persistent CalCluster
+    *
+------------------------------------------------------------
+User: chamont  Wed Jun  8 04:28:46 PDT 2005
 reconRootData/cmt
 
 Modified Files:
