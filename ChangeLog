@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Jun 23 16:47:06 PDT 2005
+reconRootData/src
+
+Added Files:
+	CalMipTrack.cxx TkrDiagnostics.cxx 
+Log Message:
+oops, do we really need these?
+    *
+------------------------------------------------------------
 TAG
 Tag name: v6r0p0, operation: add
 Package: reconRootData
