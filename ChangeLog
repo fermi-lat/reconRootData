@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: usher  Thu Jun 23 11:09:13 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	CalRecon.h LinkDef.h TkrRecon.h 
+Added Files:
+	CalMipTrack.h TkrDiagnostics.h 
+Log Message:
+"Last" modifications to include mip finder output and new Tracker diagnostics class.
+    *
+------------------------------------------------------------
+User: usher  Thu Jun 23 11:09:13 PDT 2005
 reconRootData/cmt
 
 Modified Files:
