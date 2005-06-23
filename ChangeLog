@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Jun 23 11:09:13 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+"Last" modifications to include mip finder output and new Tracker diagnostics class.
+    *
+------------------------------------------------------------
 User: chamont  Wed Jun 15 06:41:12 PDT 2005
 reconRootData/src
 
