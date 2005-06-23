@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: usher  Thu Jun 23 11:09:13 PDT 2005
+reconRootData/src
+
+Modified Files:
+	CalRecon.cxx TkrRecon.cxx 
+Log Message:
+"Last" modifications to include mip finder output and new Tracker diagnostics class.
+    *
+------------------------------------------------------------
+User: usher  Thu Jun 23 11:09:13 PDT 2005
 reconRootData/reconRootData
 
 Modified Files:
