@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jun 28 11:50:23 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h CalMipTrack.h CalRecon.h LinkDef.h TkrRecon.h 
+Log Message:
+some cleanup and update for unit test
+    *
+------------------------------------------------------------
 User: heather  Tue Jun 28 11:49:33 PDT 2005
 reconRootData/doc
 
