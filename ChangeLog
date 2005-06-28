@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jun 28 11:49:00 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+fix up unit test
+    *
+------------------------------------------------------------
 TAG
 Tag name: v6r0p2, operation: add
 Package: reconRootData
