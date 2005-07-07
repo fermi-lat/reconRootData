@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: chamont  Thu Jul  7 08:35:35 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h CalClusterLayerData.h CalCorToolResult.h 
+	CalEventEnergy.h CalParams.h 
+Log Message:
+Compare() is reserved by ROOT, replace with CompareInRange()
+    *
+------------------------------------------------------------
 User: chamont  Thu Jul  7 06:14:57 PDT 2005
 reconRootData/src/test
 
