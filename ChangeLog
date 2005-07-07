@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: chamont  Thu Jul  7 06:14:57 PDT 2005
+reconRootData/src
+
+Modified Files:
+	CalCluster.cxx CalClusterLayerData.cxx CalParams.cxx 
+Added Files:
+	CalCorToolResult.cxx CalEventEnergy.cxx 
+Log Message:
+move the random/fake and comparison code into CalCluster, for reuse within package RootConvert ; also start to prepare CalCorToolResult and CalEventEnergy
+    *
+------------------------------------------------------------
 User: chamont  Thu Jul  7 06:14:56 PDT 2005
 reconRootData/reconRootData
 
