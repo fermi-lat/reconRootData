@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: chamont  Thu Jul  7 08:35:35 PDT 2005
+reconRootData/src
+
+Modified Files:
+	CalCluster.cxx CalClusterLayerData.cxx CalCorToolResult.cxx 
+	CalEventEnergy.cxx CalParams.cxx 
+Log Message:
+Compare() is reserved by ROOT, replace with CompareInRange()
+    *
+------------------------------------------------------------
+User: chamont  Thu Jul  7 08:35:35 PDT 2005
 reconRootData/reconRootData
 
 Modified Files:
