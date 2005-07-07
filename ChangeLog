@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Thu Jul  7 12:13:40 PDT 2005
+reconRootData/src
+
+Modified Files:
+	CalCorToolResult.cxx CalEventEnergy.cxx CalRecon.cxx 
+Log Message:
+full implementation of CalCorToolResult and CalEventEnergy
+    *
+------------------------------------------------------------
 User: chamont  Thu Jul  7 12:13:39 PDT 2005
 reconRootData/reconRootData
 
