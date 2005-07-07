@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Thu Jul  7 14:08:16 PDT 2005
+reconRootData/src
+
+Modified Files:
+	CalCorToolResult.cxx CalEventEnergy.cxx 
+Log Message:
+details and a bug fix in CalEventEnergy::init()
+    *
+------------------------------------------------------------
 User: chamont  Thu Jul  7 12:13:40 PDT 2005
 reconRootData/src/test
 
