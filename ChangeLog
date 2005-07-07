@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Thu Jul  7 12:13:39 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	CalCorToolResult.h CalEventEnergy.h CalRecon.h 
+Log Message:
+full implementation of CalCorToolResult and CalEventEnergy
+    *
+------------------------------------------------------------
 User: chamont  Thu Jul  7 08:35:35 PDT 2005
 reconRootData/src/test
 
