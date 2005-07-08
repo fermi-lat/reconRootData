@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Jul  7 23:49:41 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	CalRecon.h 
+Log Message:
+move new data member to the end of the list
+    *
+------------------------------------------------------------
 User: heather  Thu Jul  7 23:49:14 PDT 2005
 reconRootData/doc
 
