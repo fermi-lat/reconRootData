@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jul 15 09:41:59 PDT 2005
+reconRootData/src
+
+Modified Files:
+	CalMipTrack.cxx 
+Log Message:
+add const to CalMipTrack methods
+    *
+------------------------------------------------------------
 User: heather  Fri Jul 15 09:41:55 PDT 2005
 reconRootData/reconRootData
 
