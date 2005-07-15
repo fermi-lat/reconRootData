@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jul 15 09:41:17 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+add const to CalMipTrack methods
+    *
+------------------------------------------------------------
 TAG
 Tag name: v7r1, operation: add
 Package: reconRootData
