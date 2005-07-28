@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jul 27 22:47:27 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+convert TKR from Double_t to Double32_t
+    *
+------------------------------------------------------------
 User: heather  Wed Jul 27 22:47:13 PDT 2005
 reconRootData/doc
 
