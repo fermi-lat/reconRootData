@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jul 27 22:47:13 PDT 2005
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+convert TKR from Double_t to Double32_t
+    *
+------------------------------------------------------------
 TAG
 Tag name: v7r1p1, operation: add
 Package: reconRootData
