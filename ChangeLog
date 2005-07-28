@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Wed Jul 27 22:48:09 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	TkrDiagnostics.h TkrTrack.h TkrTrackHit.h TkrTrackParams.h 
+	TkrVertex.h 
+Log Message:
+convert TKR from Double_t to Double32_t
+    *
+------------------------------------------------------------
 User: heather  Wed Jul 27 22:47:27 PDT 2005
 reconRootData/cmt
 
