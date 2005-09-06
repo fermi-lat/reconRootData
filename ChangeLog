@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: golpa  Tue Sep  6 11:05:41 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Use GlastPolicy. Tag v8r1p1
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r1, operation: add
 Package: reconRootData
