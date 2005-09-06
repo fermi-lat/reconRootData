@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: golpa  Tue Sep  6 11:05:41 PDT 2005
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Use GlastPolicy. Tag v8r1p1
+    *
+------------------------------------------------------------
+User: golpa  Tue Sep  6 11:05:41 PDT 2005
 reconRootData/cmt
 
 Modified Files:
