@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Mon Sep 12 13:50:28 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+      Tag: EngineeringModel-v5r0608p6
+	requirements 
+Log Message:
+store AcdId associated with ActiveDistance
+    *
+------------------------------------------------------------
 User: heather  Mon Sep 12 13:50:20 PDT 2005
 reconRootData/doc
 
