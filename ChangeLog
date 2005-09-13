@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Sep 12 23:26:20 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h 
+Log Message:
+store AcdId for ActiveDistance
+    *
+------------------------------------------------------------
 User: heather  Mon Sep 12 23:25:36 PDT 2005
 reconRootData/src
 
