@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Thu Sep 15 12:53:12 PDT 2005
+reconRootData/doc
+
+Modified Files:
+      Tag: EngineeringModel-v5r0608p6
+	release.notes 
+Log Message:
+try out Double32 in TKR test in EM
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r2, operation: add
 Package: reconRootData
