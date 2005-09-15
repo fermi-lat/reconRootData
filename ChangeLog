@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Thu Sep 15 12:54:35 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+      Tag: EngineeringModel-v5r0608p6
+	TkrVertex.h TkrTrackParams.h TkrTrackHit.h TkrTrack.h 
+Log Message:
+move to Double32
+    *
+------------------------------------------------------------
 User: heather  Thu Sep 15 12:54:06 PDT 2005
 reconRootData/cmt
 
