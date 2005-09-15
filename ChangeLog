@@ -1,4 +1,51 @@
 ------------------------------------------------------------
+TAG
+Tag name: v5r6p3em2, operation: add
+Package: reconRootData
+User: heather  Thu Sep 15 12:55:05 2005
+Files:
+  reconRootData/.cvsignore  1.2
+  reconRootData/ChangeLog  1.352
+  reconRootData/cmt/.cvsignore  1.2
+  reconRootData/cmt/requirements  1.78.2.2
+  reconRootData/cmt/Makefile  1.1.1.1
+  reconRootData/doc/release.notes  1.59.2.2
+  reconRootData/doc/reconRootData.html  1.1
+  reconRootData/doc/Doxyfile  1.3
+  reconRootData/doc/images/reconTree.gif  1.2
+  reconRootData/doc/styles/site.css  1.1
+  reconRootData/reconRootData/CalRangeRecData.h  1.8
+  reconRootData/reconRootData/AcdRecon.h  1.12.2.1
+  reconRootData/reconRootData/TkrVertex.h  1.9.2.1
+  reconRootData/reconRootData/CalXtalRecData.h  1.10
+  reconRootData/reconRootData/LinkDef.h  1.2
+  reconRootData/reconRootData/TkrTrackParams.h  1.1.2.1
+  reconRootData/reconRootData/TkrCluster.h  1.9
+  reconRootData/reconRootData/TkrTrack.h  1.12.2.1
+  reconRootData/reconRootData/ReconEvent.h  1.7
+  reconRootData/reconRootData/TkrRecon.h  1.12
+  reconRootData/reconRootData/CalCluster.h  1.12
+  reconRootData/reconRootData/TkrTrackHit.h  1.2.2.1
+  reconRootData/reconRootData/CalRecon.h  1.5
+  reconRootData/src/TkrTrackHit.cxx  1.3
+  reconRootData/src/TkrCluster.cxx  1.6
+  reconRootData/src/CalXtalRecData.cxx  1.7
+  reconRootData/src/TkrVertex.cxx  1.6
+  reconRootData/src/AcdRecon.cxx  1.7.2.1
+  reconRootData/src/CalRangeRecData.cxx  1.6
+  reconRootData/src/mainpage.h  1.7
+  reconRootData/src/CalRecon.cxx  1.6
+  reconRootData/src/CalCluster.cxx  1.9
+  reconRootData/src/TkrTrack.cxx  1.7
+  reconRootData/src/ReconEvent.cxx  1.8
+  reconRootData/src/TkrTrackParams.cxx  1.2
+  reconRootData/src/TkrRecon.cxx  1.18
+  reconRootData/src/test/testReconClasses.cxx  1.21.2.1
+  reconRootData/src/test/leaktest.cxx  1.14
+  reconRootData/src/test/.rootrc  1.1
+
+    *
+------------------------------------------------------------
 User: heather  Thu Sep 15 12:54:35 PDT 2005
 reconRootData/reconRootData
 
