@@ -1,5 +1,6 @@
 /** @file release.notes  package reconRootData  package manager:H.Kelly @verbatim
 
+v5r6p3em2 15-Sep-05  : HMK let's try Double32_t in the TKR
 v5r6p3em1 12-Sep-05  : HMK store AcdId for ActiveDistance
 v5r6p3    27-May-05  : HMK use new RootcintPolicy
 v5r6p2    04-May-05  : HMK Fix use of static TkrRecon::Clear for windows
