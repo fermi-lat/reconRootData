@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Sep 22 01:38:42 PDT 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+back off double32 at head and include ribbon count and energy
+    *
+------------------------------------------------------------
 User: heather  Thu Sep 22 01:37:47 PDT 2005
 reconRootData/doc
 
