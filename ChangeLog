@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Sep 22 01:37:47 PDT 2005
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+back off double32 at head and include ribbon count and energy
+    *
+------------------------------------------------------------
 User: heather  Thu Sep 22 01:29:53 PDT 2005
 reconRootData/src/test
 
