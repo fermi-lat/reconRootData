@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Thu Sep 22 01:29:38 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h TkrDiagnostics.h TkrTrack.h TkrTrackHit.h 
+	TkrTrackParams.h TkrVertex.h 
+Log Message:
+back off double32 at head and include ribbon count and energy
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r6p3em2, operation: add
 Package: reconRootData
