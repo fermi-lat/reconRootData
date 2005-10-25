@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Oct 25 11:55:10 PDT 2005
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h 
+Log Message:
+store ribbon values in AcdRecon
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r3, operation: add
 Package: reconRootData
