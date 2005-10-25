@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Oct 25 11:55:18 PDT 2005
+reconRootData/src/test
+
+Modified Files:
+	testReconClasses.cxx 
+Log Message:
+store ribbon values in AcdRecon
+    *
+------------------------------------------------------------
 User: heather  Tue Oct 25 11:55:17 PDT 2005
 reconRootData/src
 
