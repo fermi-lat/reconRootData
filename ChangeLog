@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: echarles  Wed Nov  2 18:40:21 PST 2005
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+merge back to HEAD of main branch
+    *
+------------------------------------------------------------
 TAG
 Tag name: eac-051102, operation: add
 Package: reconRootData
