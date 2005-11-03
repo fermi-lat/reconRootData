@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: echarles  Wed Nov  2 16:11:24 PST 2005
+reconRootData/cmt
+
+Modified Files:
+      Tag: GlastRelease-v7r2
+	requirements 
+Log Message:
+
+Added AcdTrkIntersection to various targets.
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-v7r2, operation: add
 Package: reconRootData
