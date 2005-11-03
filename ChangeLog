@@ -1,4 +1,25 @@
 ------------------------------------------------------------
+User: echarles  Wed Nov  2 16:13:10 PST 2005
+reconRootData/reconRootData
+
+Modified Files:
+      Tag: GlastRelease-v7r2
+	AcdRecon.h LinkDef.h TkrRecon.h TkrTrack.h 
+Added Files:
+      Tag: GlastRelease-v7r2
+	AcdTkrIntersection.h 
+Log Message:
+
+Added a couple of access functions to TkrRecon & TkrTrack that were useful in testing AcdTrkIntersections.  
+
+  TkrTrack::getHit(UInt_t i)
+ 
+  TkrRecon::getNTracks() and similar
+
+Added AcdTrkIntersection to various targets.
+
+    *
+------------------------------------------------------------
 User: echarles  Wed Nov  2 16:11:24 PST 2005
 reconRootData/cmt
 
