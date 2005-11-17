@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Nov 17 13:09:56 PST 2005
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx 
+Log Message:
+init doca and actdist members properly
+    *
+------------------------------------------------------------
 User: heather  Thu Nov 17 13:09:37 PST 2005
 reconRootData/cmt
 
