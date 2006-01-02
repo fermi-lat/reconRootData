@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Mon Jan  2 06:13:15 PST 2006
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+complete rewrite of unit tests
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r6p3, operation: add
 Package: reconRootData
