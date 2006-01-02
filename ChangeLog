@@ -1,4 +1,18 @@
 ------------------------------------------------------------
+User: chamont  Mon Jan  2 06:13:16 PST 2006
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx AcdTkrIntersection.cxx CalCluster.cxx 
+	CalClusterLayerData.cxx CalCorToolResult.cxx 
+	CalEventEnergy.cxx CalMipTrack.cxx CalParams.cxx 
+	CalRangeRecData.cxx CalRecon.cxx CalXtalRecData.cxx 
+	ReconEvent.cxx TkrCluster.cxx TkrDiagnostics.cxx TkrRecon.cxx 
+	TkrTrack.cxx TkrTrackHit.cxx TkrTrackParams.cxx TkrVertex.cxx 
+Log Message:
+complete rewrite of unit tests
+    *
+------------------------------------------------------------
 User: chamont  Mon Jan  2 06:13:15 PST 2006
 reconRootData/reconRootData
 
