@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: chamont  Mon Jan  2 06:13:16 PST 2006
+reconRootData/src/test
+
+Modified Files:
+	testReconClasses.cxx 
+Log Message:
+complete rewrite of unit tests
+    *
+------------------------------------------------------------
+User: chamont  Mon Jan  2 06:13:16 PST 2006
 reconRootData/src
 
 Modified Files:
