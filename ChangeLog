@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Wed Jan  4 15:14:32 PST 2006
+reconRootData/reconRootData
+
+Modified Files:
+      Tag: EM-v5r0703p5
+	TkrTrack.h TkrTrackHit.h TkrVertex.h TkrTrackParams.h 
+Log Message:
+test Double32
+    *
+------------------------------------------------------------
 User: heather  Wed Jan  4 15:13:49 PST 2006
 reconRootData/doc
 
