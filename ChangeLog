@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Wed Jan  4 15:13:37 PST 2006
+reconRootData/cmt
+
+Modified Files:
+      Tag: EM-v5r0703p5
+	requirements 
+Log Message:
+test Double32
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r7, operation: add
 Package: reconRootData
