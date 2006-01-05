@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: echarles  Thu Jan  5 14:42:50 PST 2006
+reconRootData/cmt
+
+Modified Files:
+      Tag: EM-v5r0703p5
+	requirements 
+Log Message:
+added AcdHit and AcdTkrPoca to root library, got rid of spurious debugging printout
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r8, operation: add
 Package: reconRootData
