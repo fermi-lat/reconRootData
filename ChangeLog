@@ -1,13 +1,4 @@
 ------------------------------------------------------------
-User: echarles  Wed Jan  4 18:31:44 PST 2006
-reconRootData/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-Added AcdHit AcdTkrPoca to AcdRecon
-    *
-------------------------------------------------------------
 TAG
 Tag name: v8r6p1em0, operation: add
 Package: reconRootData
