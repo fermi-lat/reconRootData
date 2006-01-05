@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: echarles  Wed Jan  4 18:31:45 PST 2006
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx 
+Added Files:
+	AcdHit.cxx AcdTkrPoca.cxx 
+Log Message:
+Added AcdHit AcdTkrPoca to AcdRecon
+    *
+------------------------------------------------------------
+User: echarles  Wed Jan  4 18:31:45 PST 2006
 reconRootData/reconRootData
 
 Modified Files:
