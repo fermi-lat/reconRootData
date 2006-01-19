@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Wed Jan 18 19:15:23 PST 2006
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx CalXtalRecData.cxx 
+Log Message:
+Fix a small bug and standardize Fake methods
+    *
+------------------------------------------------------------
 User: chamont  Wed Jan 18 19:15:21 PST 2006
 reconRootData/reconRootData
 
