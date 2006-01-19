@@ -1,13 +1,4 @@
 ------------------------------------------------------------
-User: chamont  Wed Jan 18 19:15:19 PST 2006
-reconRootData/doc
-
-Modified Files:
-	release.notes 
-Log Message:
-Fix a small bug and standardize Fake methods
-    *
-------------------------------------------------------------
 TAG
 Tag name: v8r6p1em1, operation: add
 Package: reconRootData
