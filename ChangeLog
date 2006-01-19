@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Wed Jan 18 19:15:21 PST 2006
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h 
+Log Message:
+Fix a small bug and standardize Fake methods
+    *
+------------------------------------------------------------
 User: chamont  Wed Jan 18 19:15:19 PST 2006
 reconRootData/doc
 
