@@ -1,13 +1,4 @@
 ------------------------------------------------------------
-User: chamont  Thu Jan 19 11:05:47 PST 2006
-reconRootData/doc
-
-Modified Files:
-	release.notes 
-Log Message:
-Fake methods for high level do not include rank argument
-    *
-------------------------------------------------------------
 User: chamont  Thu Jan 19 09:31:07 PST 2006
 reconRootData/cmt
 
