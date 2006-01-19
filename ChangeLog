@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Thu Jan 19 11:05:50 PST 2006
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h 
+Log Message:
+Fake methods for high level do not include rank argument
+    *
+------------------------------------------------------------
 User: chamont  Thu Jan 19 11:05:47 PST 2006
 reconRootData/doc
 
