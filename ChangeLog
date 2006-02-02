@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Feb  2 13:35:14 PST 2006
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h 
+Log Message:
+move AcdRecon to Double32
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r10, operation: add
 Package: reconRootData
