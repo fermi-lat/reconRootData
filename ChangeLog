@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Feb  2 13:35:56 PST 2006
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+move AcdRecon to Double32
+    *
+------------------------------------------------------------
 User: heather  Thu Feb  2 13:35:45 PST 2006
 reconRootData/doc
 
