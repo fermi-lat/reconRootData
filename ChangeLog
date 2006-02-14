@@ -1,4 +1,66 @@
 ------------------------------------------------------------
+TAG
+Tag name: v8r6cl0, operation: add
+Package: reconRootData
+User: usher  Tue Feb 14 10:51:07 2006
+Files:
+  reconRootData/.cvsignore  1.2.12.1
+  reconRootData/ChangeLog  1.467
+  reconRootData/cmt/.cvsignore  1.2
+  reconRootData/cmt/requirements  1.98
+  reconRootData/cmt/Makefile  1.1.1.1
+  reconRootData/doc/release.notes  1.74.4.1
+  reconRootData/doc/reconRootData.html  1.1
+  reconRootData/doc/Doxyfile  1.3
+  reconRootData/doc/images/reconTree.gif  1.2
+  reconRootData/doc/styles/site.css  1.1
+  reconRootData/reconRootData/TkrVertex.h  1.11
+  reconRootData/reconRootData/CalXtalRecData.h  1.10
+  reconRootData/reconRootData/TkrTrackParams.h  1.3
+  reconRootData/reconRootData/TkrTrack.h  1.15
+  reconRootData/reconRootData/ReconEvent.h  1.7
+  reconRootData/reconRootData/AcdTkrIntersection.h  1.2
+  reconRootData/reconRootData/CalMipTrack.h  1.4
+  reconRootData/reconRootData/TkrRecon.h  1.15
+  reconRootData/reconRootData/CalCluster.h  1.18
+  reconRootData/reconRootData/CalRecon.h  1.9
+  reconRootData/reconRootData/AcdRecon.h  1.17
+  reconRootData/reconRootData/CalRangeRecData.h  1.8
+  reconRootData/reconRootData/TkrDiagnostics.h  1.3
+  reconRootData/reconRootData/LinkDef.h  1.8
+  reconRootData/reconRootData/TkrCluster.h  1.9.10.1
+  reconRootData/reconRootData/CalEventEnergy.h  1.3
+  reconRootData/reconRootData/CalCorToolResult.h  1.3
+  reconRootData/reconRootData/TkrTrackHit.h  1.4
+  reconRootData/reconRootData/CalClusterLayerData.h  1.3
+  reconRootData/reconRootData/CalParams.h  1.4
+  reconRootData/src/TkrCluster.cxx  1.6
+  reconRootData/src/AcdTkrIntersection.cxx  1.2
+  reconRootData/src/CalXtalRecData.cxx  1.7
+  reconRootData/src/CalEventEnergy.cxx  1.5
+  reconRootData/src/TkrDiagnostics.cxx  1.1
+  reconRootData/src/AcdRecon.cxx  1.12
+  reconRootData/src/CalCorToolResult.cxx  1.4
+  reconRootData/src/mainpage.h  1.7
+  reconRootData/src/TkrTrack.cxx  1.7
+  reconRootData/src/TkrTrackHit.cxx  1.3
+  reconRootData/src/CalMipTrack.cxx  1.3
+  reconRootData/src/CalParams.cxx  1.4
+  reconRootData/src/CalClusterLayerData.cxx  1.3
+  reconRootData/src/TkrVertex.cxx  1.6
+  reconRootData/src/CalRangeRecData.cxx  1.6
+  reconRootData/src/CalRecon.cxx  1.8
+  reconRootData/src/CalCluster.cxx  1.13
+  reconRootData/src/ReconEvent.cxx  1.8
+  reconRootData/src/TkrTrackParams.cxx  1.2
+  reconRootData/src/TkrRecon.cxx  1.19
+  reconRootData/src/test/testReconClasses.cxx  1.31
+  reconRootData/src/test/.cvsignore  1.1
+  reconRootData/src/test/leaktest.cxx  1.14
+  reconRootData/src/test/.rootrc  1.1
+
+    *
+------------------------------------------------------------
 User: usher  Tue Feb 14 10:50:25 PST 2006
 reconRootData/doc
 
