@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Mar  7 15:24:16 PST 2006
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use Riostream consistently
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r6cl0, operation: add
 Package: reconRootData
