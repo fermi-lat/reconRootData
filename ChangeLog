@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Mar 24 09:13:38 PST 2006
+reconRootData/src
+
+Modified Files:
+	AcdTkrIntersection.cxx 
+Log Message:
+need include in *.h for ROOT 5.10
+    *
+------------------------------------------------------------
 User: heather  Fri Mar 24 09:13:21 PST 2006
 reconRootData/reconRootData
 
