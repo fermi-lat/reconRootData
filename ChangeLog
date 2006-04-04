@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: echarles  Tue Apr  4 16:20:49 PDT 2006
+reconRootData/src
+
+Modified Files:
+	AcdHit.cxx AcdRecon.cxx AcdTkrIntersection.cxx 
+Added Files:
+	AcdPocaData.cxx AcdTkrGapPoca.cxx AcdTkrHitPoca.cxx 
+	AcdTkrLocalCoords.cxx AcdTkrPoint.cxx 
+Log Message:
+EAC Added various ACD data structures
+    *
+------------------------------------------------------------
+User: echarles  Tue Apr  4 16:20:49 PDT 2006
 reconRootData/reconRootData
 
 Modified Files:
