@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: echarles  Tue Apr  4 16:20:48 PDT 2006
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+EAC Added various ACD data structures
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r11p2, operation: add
 Package: reconRootData
