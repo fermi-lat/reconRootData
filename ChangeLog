@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Apr 10 13:49:22 PDT 2006
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+let's all move to double32
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r0, operation: add
 Package: reconRootData
