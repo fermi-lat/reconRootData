@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Mon Apr 10 13:49:22 PDT 2006
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+let's all move to double32
+    *
+------------------------------------------------------------
+User: heather  Mon Apr 10 13:49:22 PDT 2006
 reconRootData/cmt
 
 Modified Files:
