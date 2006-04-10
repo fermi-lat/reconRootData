@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Mon Apr 10 13:49:23 PDT 2006
+reconRootData/src
+
+Modified Files:
+	AcdTkrIntersection.cxx 
+Log Message:
+let's all move to double32
+    *
+------------------------------------------------------------
+User: heather  Mon Apr 10 13:49:23 PDT 2006
 reconRootData/reconRootData
 
 Modified Files:
