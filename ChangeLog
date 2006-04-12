@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Apr 12 00:18:23 PDT 2006
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+remove extra ;
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r1, operation: add
 Package: reconRootData
