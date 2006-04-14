@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: echarles  Fri Apr 14 10:19:49 PDT 2006
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+remove forward declaration of TMatrixD in AcdTkrLocalData
+    *
+------------------------------------------------------------
 User: echarles  Fri Apr 14 10:19:48 PDT 2006
 reconRootData/cmt
 
