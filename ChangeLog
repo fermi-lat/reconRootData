@@ -1,13 +1,4 @@
 ------------------------------------------------------------
-User: echarles  Fri Apr 14 10:19:48 PDT 2006
-reconRootData/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-remove forward declaration of TMatrixD in AcdTkrLocalData
-    *
-------------------------------------------------------------
 TAG
 Tag name: v9r1p1, operation: add
 Package: reconRootData
