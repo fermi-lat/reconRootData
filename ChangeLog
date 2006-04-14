@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: echarles  Fri Apr 14 10:19:49 PDT 2006
+reconRootData/reconRootData
+
+Modified Files:
+	AcdTkrLocalCoords.h 
+Log Message:
+remove forward declaration of TMatrixD in AcdTkrLocalData
+    *
+------------------------------------------------------------
+User: echarles  Fri Apr 14 10:19:49 PDT 2006
 reconRootData/doc
 
 Modified Files:
