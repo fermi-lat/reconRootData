@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: echarles  Wed Jun 21 17:55:34 PDT 2006
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx 
+Added Files:
+	AcdSplashVars.cxx 
+Log Message:
+Added AcdSplashVars
+    *
+------------------------------------------------------------
+User: echarles  Wed Jun 21 17:55:34 PDT 2006
 reconRootData/reconRootData
 
 Modified Files:
