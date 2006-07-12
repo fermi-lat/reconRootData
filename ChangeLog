@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: heather  Wed Jul 12 12:30:12 PDT 2006
+reconRootData/src
+
+Modified Files:
+	ReconEvent.cxx 
+Added Files:
+	AdfRecon.cxx TaggerCluster.cxx 
+Log Message:
+adf recon
+    *
+------------------------------------------------------------
+User: heather  Wed Jul 12 12:30:12 PDT 2006
 reconRootData/reconRootData
 
 Modified Files:
