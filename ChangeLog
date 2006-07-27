@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Thu Jul 27 11:24:30 PDT 2006
+reconRootData/reconRootData
+
+Modified Files:
+	AdfRecon.h 
+Log Message:
+handle error energy in AdfRecon
+    *
+------------------------------------------------------------
+User: heather  Thu Jul 27 11:24:30 PDT 2006
 reconRootData/doc
 
 Modified Files:
