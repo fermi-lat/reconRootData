@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Jul 27 11:24:30 PDT 2006
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+handle error energy in AdfRecon
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r4, operation: add
 Package: reconRootData
