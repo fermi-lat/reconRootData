@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: omodei  Mon Aug  7 01:18:08 PDT 2006
+reconRootData/src
+
+Modified Files:
+	AdfRecon.cxx 
+Log Message:
+Add num clusters in recon def
+    *
+------------------------------------------------------------
+User: omodei  Mon Aug  7 01:18:08 PDT 2006
 reconRootData/reconRootData
 
 Modified Files:
