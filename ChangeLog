@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: omodei  Mon Aug  7 01:18:08 PDT 2006
+reconRootData/reconRootData
+
+Modified Files:
+	AdfRecon.h 
+Log Message:
+Add num clusters in recon def
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r5, operation: add
 Package: reconRootData
