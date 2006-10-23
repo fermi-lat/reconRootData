@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Oct 23 11:27:46 PDT 2006
+reconRootData/reconRootData
+
+Modified Files:
+	TkrRecon.h 
+Log Message:
+address JIRA ROOT-25, increase size of TkrCluster static array
+    *
+------------------------------------------------------------
 User: heather  Mon Oct 23 11:27:45 PDT 2006
 reconRootData/doc
 
