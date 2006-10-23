@@ -3,6 +3,9 @@ package reconRootData
 package manager:H.Kelly 
 @verbatim
 
+v9r2gr1   16-Oct-06  : HMK Increase static cluster array to maximum
+                       128 * 8 * 16 possible in the hardware.  In response to
+                       JIRA ROOT-25
 v9r2      22-Jun-06  : EAC Added AcdSplashVars
 v9r1p2    14-Apr-06  : EAC remove forward declaration of TMatrixD in AcdTkrLocalData
 v9r1p1    11-Apr-06  : HMK patch to remove extra ; in #include
