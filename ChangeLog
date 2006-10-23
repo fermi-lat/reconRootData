@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Oct 23 11:27:45 PDT 2006
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+address JIRA ROOT-25, increase size of TkrCluster static array
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r2gr1, operation: add
 Package: reconRootData
