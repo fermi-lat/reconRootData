@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Oct 27 09:59:18 PDT 2006
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+store active distance down variables
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r7, operation: add
 Package: reconRootData
