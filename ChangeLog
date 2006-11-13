@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: claval  Mon Nov 13 02:17:21 PST 2006
+reconRootData/cmt
+
+Modified Files:
+	.cvsignore requirements 
+Log Message:
+new ROOT objects included in recon.root file
+
+    *
+------------------------------------------------------------
+User: claval  Mon Nov 13 02:17:21 PST 2006
 reconRootData
 
 Modified Files:
