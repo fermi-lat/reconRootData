@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: heather  Sun Nov 26 20:52:01 PST 2006
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx 
+Added Files:
+	GcrTrack.cxx 
+Log Message:
+remove cint files
+    *
+------------------------------------------------------------
 User: heather  Sun Nov 26 20:52:00 PST 2006
 reconRootData/reconRootData
 
