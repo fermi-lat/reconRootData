@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Nov 26 20:36:50 PST 2006
+reconRootData/reconRootData
+
+Removed Files:
+	reconRootData_rootcint.cxx reconRootData_rootcint.h 
+Log Message:
+remove rootcint files
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r9, operation: add
 Package: reconRootData
