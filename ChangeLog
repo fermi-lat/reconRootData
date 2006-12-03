@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Dec  3 05:47:52 PST 2006
+reconRootData/reconRootData
+
+Modified Files:
+	CalRecon.h GcrTrack.h GcrXtal.h 
+Log Message:
+use TCLonesArray for GcrXtal
+    *
+------------------------------------------------------------
 User: heather  Sun Dec  3 05:47:51 PST 2006
 reconRootData/doc
 
