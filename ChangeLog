@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Dec  3 05:47:51 PST 2006
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use TCLonesArray for GcrXtal
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r10, operation: add
 Package: reconRootData
