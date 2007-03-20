@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Mon Mar 19 17:20:22 PDT 2007
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h 
+Log Message:
+apply patch for schema evolution from double to double32
+    *
+------------------------------------------------------------
+User: heather  Mon Mar 19 17:20:22 PDT 2007
 reconRootData/doc
 
 Modified Files:
