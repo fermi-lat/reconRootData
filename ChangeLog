@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Mar 19 17:20:22 PDT 2007
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+apply patch for schema evolution from double to double32
+    *
+------------------------------------------------------------
 User: chamont  Tue Jan 30 07:07:40 PST 2007
 reconRootData/src
 
