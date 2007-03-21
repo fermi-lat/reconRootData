@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Wed Mar 21 09:34:10 PDT 2007
+reconRootData/cmt
+
+Added Files:
+	recon-v9r11-v5r14.root 
+Log Message:
+add a ROOT 5.14 test file
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r13, operation: add
 Package: reconRootData
