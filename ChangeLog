@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Wed Mar 21 07:02:32 PDT 2007
+reconRootData/src/test
+
+Modified Files:
+	testReconClasses.cxx 
+Log Message:
+review test strategy so to check schema evolution and better handle random numbers
+    *
+------------------------------------------------------------
 User: chamont  Wed Mar 21 07:02:31 PDT 2007
 reconRootData/src
 
