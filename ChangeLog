@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: chamont  Wed Mar 21 07:02:31 PDT 2007
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Added Files:
+	recon-v9r11-v5r10.root 
+Log Message:
+review test strategy so to check schema evolution and better handle random numbers
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r12, operation: add
 Package: reconRootData
