@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sat May 19 18:18:07 PDT 2007
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+patch test prog for windows
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r13p1, operation: add
 Package: reconRootData
