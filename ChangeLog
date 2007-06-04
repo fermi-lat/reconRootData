@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Mon Jun  4 10:15:20 PDT 2007
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h 
+Log Message:
+just ditch vector<Double32> in AcdRecon
+    *
+------------------------------------------------------------
+User: heather  Mon Jun  4 10:15:20 PDT 2007
 reconRootData/doc
 
 Modified Files:
