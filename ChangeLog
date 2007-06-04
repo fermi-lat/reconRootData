@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Jun  4 10:15:20 PDT 2007
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+just ditch vector<Double32> in AcdRecon
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r13p2, operation: add
 Package: reconRootData
