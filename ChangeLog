@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Tue Aug 21 08:21:42 PDT 2007
+reconRootData/cmt
+
+Modified Files:
+	recon-v9r11-v5r14.root 
+Log Message:
+remove duplicate code for vector<Double_t> bug, keeping the most elaborated
+    *
+------------------------------------------------------------
 User: chamont  Tue Aug 21 08:18:40 PDT 2007
 reconRootData/reconRootData
 
