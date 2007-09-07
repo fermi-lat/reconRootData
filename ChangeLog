@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: cohen  Fri Sep  7 13:33:18 PDT 2007
+reconRootData/src
+
+Modified Files:
+	TkrRecon.cxx 
+Added Files:
+	TkrTruncationData.cxx 
+Log Message:
+new class for persistency of TKR Truncation data
+
+    *
+------------------------------------------------------------
+User: cohen  Fri Sep  7 13:33:18 PDT 2007
 reconRootData/reconRootData
 
 Modified Files:
