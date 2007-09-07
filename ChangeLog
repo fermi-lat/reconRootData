@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: cohen  Fri Sep  7 13:33:18 PDT 2007
+reconRootData/reconRootData
+
+Modified Files:
+	LinkDef.h TkrRecon.h 
+Added Files:
+	TkrTruncationData.h 
+Log Message:
+new class for persistency of TKR Truncation data
+
+    *
+------------------------------------------------------------
+User: cohen  Fri Sep  7 13:33:18 PDT 2007
 reconRootData/cmt
 
 Modified Files:
