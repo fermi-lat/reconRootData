@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: cohen  Fri Sep  7 13:33:18 PDT 2007
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+new class for persistency of TKR Truncation data
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r15, operation: add
 Package: reconRootData
