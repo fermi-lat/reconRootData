@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: cohen  Mon Sep 10 16:21:30 PDT 2007
+reconRootData/reconRootData
+
+Modified Files:
+	TkrRecon.h TkrTruncationData.h 
+Log Message:
+try to fix the test executable
+
+    *
+------------------------------------------------------------
 User: cohen  Mon Sep 10 16:21:29 PDT 2007
 reconRootData/cmt
 
