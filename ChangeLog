@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Sep 18 20:50:36 PDT 2007
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+avoid use of intVec and floatVec typedefs for now
+    *
+------------------------------------------------------------
 User: cohen  Mon Sep 10 16:21:30 PDT 2007
 reconRootData/src
 
