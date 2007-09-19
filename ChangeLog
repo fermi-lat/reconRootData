@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Tue Sep 18 20:50:36 PDT 2007
+reconRootData/reconRootData
+
+Modified Files:
+	TkrTruncationData.h 
+Log Message:
+avoid use of intVec and floatVec typedefs for now
+    *
+------------------------------------------------------------
+User: heather  Tue Sep 18 20:50:36 PDT 2007
 reconRootData/doc
 
 Modified Files:
