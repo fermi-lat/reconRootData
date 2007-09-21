@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Sep 20 20:24:34 PDT 2007
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+turn off TkrTruncationData for now
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r16, operation: add
 Package: reconRootData
