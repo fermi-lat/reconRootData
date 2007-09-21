@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Thu Sep 20 20:24:35 PDT 2007
+reconRootData/reconRootData
+
+Modified Files:
+	LinkDef.h TkrRecon.h TkrTruncationData.h 
+Log Message:
+turn off TkrTruncationData for now
+    *
+------------------------------------------------------------
+User: heather  Thu Sep 20 20:24:35 PDT 2007
 reconRootData/doc
 
 Modified Files:
