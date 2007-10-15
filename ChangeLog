@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Oct 14 19:07:47 PDT 2007
+reconRootData/src
+
+Modified Files:
+	AcdTkrIntersection.cxx 
+Log Message:
+patch for rhel4 in our move to ROOT v5.16
+    *
+------------------------------------------------------------
 User: heather  Sun Oct 14 19:07:46 PDT 2007
 reconRootData/doc
 
