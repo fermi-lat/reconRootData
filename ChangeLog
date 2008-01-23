@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: echarles  Wed Jan 23 15:44:30 PST 2008
+reconRootData/reconRootData
+
+Modified Files:
+	AcdHit.h AcdPocaData.h AcdRecon.h AcdSplashVars.h 
+	AcdTkrGapPoca.h AcdTkrHitPoca.h AcdTkrIntersection.h 
+	AcdTkrLocalCoords.h AcdTkrPoca.h AcdTkrPoint.h 
+Log Message:
+update comments for acd review
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r17p3, operation: add
 Package: reconRootData
