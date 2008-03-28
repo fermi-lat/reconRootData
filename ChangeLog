@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Mar 27 20:53:00 PDT 2008
+reconRootData/reconRootData
+
+Modified Files:
+	TkrCluster.h TkrTrack.h TkrTrackHit.h TkrTrackParams.h 
+	TkrVertex.h 
+Log Message:
+    *
+------------------------------------------------------------
 User: echarles  Wed Jan 23 15:44:30 PST 2008
 reconRootData/src
 
