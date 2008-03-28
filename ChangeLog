@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: usher  Thu Mar 27 20:53:00 PDT 2008
+reconRootData/src
+
+Modified Files:
+	TkrCluster.cxx TkrRecon.cxx TkrTrack.cxx TkrTrackHit.cxx 
+	TkrTrackParams.cxx TkrVertex.cxx 
+Added Files:
+	ReconObjectManager.cxx ReconObjectManager.h 
+Log Message:
+    *
+------------------------------------------------------------
+User: usher  Thu Mar 27 20:53:00 PDT 2008
 reconRootData/reconRootData
 
 Modified Files:
