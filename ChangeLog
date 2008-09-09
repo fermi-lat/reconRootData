@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Tue Sep  9 08:53:00 PDT 2008
+GlastRelease-scons/reconRootData
+
+Added Files:
+	SConscript reconRootDataLib.py 
+Log Message:
+Added files
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-19-00, operation: add
 Package: reconRootData
