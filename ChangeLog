@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+TAG
+Tag name: reconRootData-09-20-00, operation: mov
+Package: reconRootData
+User: glastrm  Thu Jan 22 16:31:39 2009
+Files:
+  reconRootData/SConscript  1.4
+  reconRootData/SConscript  1.4
+  reconRootData/SConscript  1.4
+
+    *
+------------------------------------------------------------
 User: ecephas  Thu Jan 22 16:07:14 PST 2009
 GlastRelease-scons/reconRootData
 
