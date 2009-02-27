@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: echarles  Thu Feb 26 16:36:12 PST 2009
+reconRootData/cmt
+
+Modified Files:
+      Tag: GlastReleasev17r5
+	requirements 
+Log Message:
+Changes for new Acd reconstruction
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-20-00, operation: mov
 Package: reconRootData
