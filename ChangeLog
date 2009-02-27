@@ -1,4 +1,19 @@
 ------------------------------------------------------------
+User: echarles  Thu Feb 26 16:36:15 PST 2009
+reconRootData/src
+
+Modified Files:
+      Tag: GlastReleasev17r5
+	ReconEvent.cxx 
+Added Files:
+      Tag: GlastReleasev17r5
+	AcdEventTopology.cxx AcdPocaDataV2.cxx AcdReconV2.cxx 
+	AcdTkrAssoc.cxx AcdTkrGapPocaV2.cxx AcdTkrHitPocaV2.cxx 
+	AcdTkrLocalCoordsV2.cxx AcdTkrPointV2.cxx 
+Log Message:
+Changes for new Acd reconstruction
+    *
+------------------------------------------------------------
 User: echarles  Thu Feb 26 16:36:14 PST 2009
 reconRootData/reconRootData
 
