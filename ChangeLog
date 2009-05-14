@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: echarles  Thu May 14 15:08:49 PDT 2009
+reconRootData/cmt
+
+Modified Files:
+      Tag: GlastReleasev17r5
+	requirements 
+Log Message:
+Fix up test/testReconClasses.cxx
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r20gr1, operation: add
 Package: reconRootData
