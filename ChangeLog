@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug  7 14:50:12 PDT 2009
+GlastRelease-scons/reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+Use registerTargets
+
+    *
+------------------------------------------------------------
 User: heather  Wed Jul  1 10:07:43 PDT 2009
 reconRootData/doc
 
