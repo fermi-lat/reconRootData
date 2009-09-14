@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: heather  Mon Sep 14 06:59:53 PDT 2009
+reconRootData/src
+
+Modified Files:
+	AcdPocaData.cxx AcdSplashVars.cxx AcdTkrGapPoca.cxx 
+	AcdTkrHitPoca.cxx CalRecon.cxx GcrTrack.cxx GcrXtal.cxx 
+	ReconEvent.cxx TaggerCluster.cxx TkrCluster.cxx TkrRecon.cxx 
+	TkrTrack.cxx TkrTrackHit.cxx TkrTrackParams.cxx TkrVertex.cxx 
+Log Message:
+warnings
+    *
+------------------------------------------------------------
 User: heather  Mon Sep 14 06:59:52 PDT 2009
 reconRootData/doc
 
