@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Tue Dec 15 07:16:04 PST 2009
+reconRootData/src/test
+
+Modified Files:
+	testReconClasses.cxx 
+Log Message:
+merging in Eric's updates for AcdRecon for Pass 8
+    *
+------------------------------------------------------------
+User: heather  Tue Dec 15 07:16:04 PST 2009
 reconRootData/src
 
 Modified Files:
