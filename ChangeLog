@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: heather  Tue Dec 15 07:16:04 PST 2009
+reconRootData/src
+
+Modified Files:
+	ReconEvent.cxx 
+Added Files:
+	AcdEventTopology.cxx AcdPocaDataV2.cxx AcdReconV2.cxx 
+	AcdTkrAssoc.cxx AcdTkrGapPocaV2.cxx AcdTkrHitPocaV2.cxx 
+	AcdTkrLocalCoordsV2.cxx AcdTkrPointV2.cxx 
+Log Message:
+merging in Eric's updates for AcdRecon for Pass 8
+    *
+------------------------------------------------------------
 User: heather  Tue Dec 15 07:16:03 PST 2009
 reconRootData/reconRootData
 
