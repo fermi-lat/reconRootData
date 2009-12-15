@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Dec 15 07:16:02 PST 2009
+reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+merging in Eric's updates for AcdRecon for Pass 8
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-20-01, operation: add
 Package: reconRootData
