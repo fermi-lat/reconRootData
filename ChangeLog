@@ -1,4 +1,115 @@
 ------------------------------------------------------------
+TAG
+Tag name: reconRootData-09-21-01, operation: add
+Package: reconRootData
+User: heather  Tue Dec 15 19:47:06 2009
+Files:
+  reconRootData/.cvsignore  1.4
+  reconRootData/ChangeLog  1.736
+  reconRootData/SConscript  1.7
+  reconRootData/reconRootDataLib.py  1.1
+  reconRootData/cmt/recon-v9r11-v5r10.root  1.2
+  reconRootData/cmt/.cvsignore  1.3
+  reconRootData/cmt/requirements  1.141
+  reconRootData/cmt/recon-v9r11-v5r14.root  1.2
+  reconRootData/cmt/Makefile  1.1.1.1
+  reconRootData/doc/release.notes  1.119
+  reconRootData/doc/reconRootData.html  1.1
+  reconRootData/doc/Doxyfile  1.3
+  reconRootData/doc/images/reconTree.gif  1.2
+  reconRootData/doc/styles/site.css  1.1
+  reconRootData/reconRootData/CalXtalRecData.h  1.11
+  reconRootData/reconRootData/ReconEvent.h  1.11
+  reconRootData/reconRootData/AcdTkrHitPocaV2.h  1.2
+  reconRootData/reconRootData/TkrRecon.h  1.21
+  reconRootData/reconRootData/AcdEventTopology.h  1.2
+  reconRootData/reconRootData/AcdTkrPoca.h  1.2
+  reconRootData/reconRootData/AcdTkrGapPocaV2.h  1.2
+  reconRootData/reconRootData/CalRecon.h  1.12
+  reconRootData/reconRootData/AcdHit.h  1.3
+  reconRootData/reconRootData/CalRangeRecData.h  1.10
+  reconRootData/reconRootData/TkrDiagnostics.h  1.5
+  reconRootData/reconRootData/LinkDef.h  1.16
+  reconRootData/reconRootData/AdfRecon.h  1.6
+  reconRootData/reconRootData/TkrTruncationData.h  1.4
+  reconRootData/reconRootData/CalClusterLayerData.h  1.5
+  reconRootData/reconRootData/CalParams.h  1.6
+  reconRootData/reconRootData/TkrVertex.h  1.14
+  reconRootData/reconRootData/GcrXtal.h  1.2
+  reconRootData/reconRootData/TkrTrackParams.h  1.7
+  reconRootData/reconRootData/AcdPocaDataV2.h  1.2
+  reconRootData/reconRootData/TkrTrack.h  1.18
+  reconRootData/reconRootData/AcdTkrHitPoca.h  1.2
+  reconRootData/reconRootData/AcdTkrIntersection.h  1.8
+  reconRootData/reconRootData/CalMipTrack.h  1.6
+  reconRootData/reconRootData/AcdTkrPoint.h  1.2
+  reconRootData/reconRootData/GcrTrack.h  1.3
+  reconRootData/reconRootData/CalCluster.h  1.20
+  reconRootData/reconRootData/AcdRecon.h  1.34
+  reconRootData/reconRootData/AcdTkrAssoc.h  1.2
+  reconRootData/reconRootData/TkrCluster.h  1.12
+  reconRootData/reconRootData/AcdSplashVars.h  1.2
+  reconRootData/reconRootData/AcdTkrLocalCoords.h  1.3
+  reconRootData/reconRootData/CalEventEnergy.h  1.4
+  reconRootData/reconRootData/.cvsignore  1.1
+  reconRootData/reconRootData/AcdTkrGapPoca.h  1.2
+  reconRootData/reconRootData/CalCorToolResult.h  1.5
+  reconRootData/reconRootData/AcdTkrLocalCoordsV2.h  1.2
+  reconRootData/reconRootData/AcdPocaData.h  1.2
+  reconRootData/reconRootData/TkrTrackHit.h  1.7
+  reconRootData/reconRootData/AcdReconV2.h  1.2
+  reconRootData/reconRootData/TaggerCluster.h  1.2
+  reconRootData/reconRootData/AcdTkrPointV2.h  1.2
+  reconRootData/src/TkrCluster.cxx  1.10
+  reconRootData/src/AdfRecon.cxx  1.6
+  reconRootData/src/AcdTkrIntersection.cxx  1.8
+  reconRootData/src/TkrDiagnostics.cxx  1.3
+  reconRootData/src/AcdTkrLocalCoordsV2.cxx  1.2
+  reconRootData/src/CalMipTrack.cxx  1.5
+  reconRootData/src/AcdTkrPoca.cxx  1.2
+  reconRootData/src/TkrVertex.cxx  1.11
+  reconRootData/src/CalRecon.cxx  1.13
+  reconRootData/src/CalCluster.cxx  1.16
+  reconRootData/src/AcdPocaDataV2.cxx  1.2
+  reconRootData/src/AcdSplashVars.cxx  1.2
+  reconRootData/src/AcdPocaData.cxx  1.2
+  reconRootData/src/ReconEvent.cxx  1.15
+  reconRootData/src/AcdEventTopology.cxx  1.2
+  reconRootData/src/AcdTkrPoint.cxx  1.1
+  reconRootData/src/GcrTrack.cxx  1.3
+  reconRootData/src/ReconObjectManager.cxx  1.2
+  reconRootData/src/CalXtalRecData.cxx  1.10
+  reconRootData/src/CalEventEnergy.cxx  1.7
+  reconRootData/src/AcdTkrHitPocaV2.cxx  1.2
+  reconRootData/src/AcdTkrGapPoca.cxx  1.2
+  reconRootData/src/AcdReconV2.cxx  1.2
+  reconRootData/src/AcdRecon.cxx  1.29
+  reconRootData/src/AcdTkrPointV2.cxx  1.2
+  reconRootData/src/CalCorToolResult.cxx  1.6
+  reconRootData/src/mainpage.h  1.8
+  reconRootData/src/TkrTruncationData.cxx  1.3
+  reconRootData/src/ReconObjectManager.h  1.2
+  reconRootData/src/TkrTrack.cxx  1.11
+  reconRootData/src/TkrTrackHit.cxx  1.7
+  reconRootData/src/AcdTkrGapPocaV2.cxx  1.2
+  reconRootData/src/TaggerCluster.cxx  1.3
+  reconRootData/src/CalParams.cxx  1.6
+  reconRootData/src/GcrXtal.cxx  1.3
+  reconRootData/src/AcdTkrLocalCoords.cxx  1.1
+  reconRootData/src/CalClusterLayerData.cxx  1.5
+  reconRootData/src/CalRangeRecData.cxx  1.8
+  reconRootData/src/AcdHit.cxx  1.3
+  reconRootData/src/TkrTrackParams.cxx  1.6
+  reconRootData/src/AcdTkrHitPoca.cxx  1.2
+  reconRootData/src/TkrRecon.cxx  1.28
+  reconRootData/src/AcdTkrAssoc.cxx  1.2
+  reconRootData/src/test/testReconClasses.cxx  1.41
+  reconRootData/src/test/.cvsignore  1.1
+  reconRootData/src/test/leaktest.cxx  1.14
+  reconRootData/src/test/.rootrc  1.1
+
+    *
+------------------------------------------------------------
 User: heather  Tue Dec 15 07:16:04 PST 2009
 reconRootData/src/test
 
