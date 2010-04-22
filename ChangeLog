@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: lbaldini  Thu Apr 22 02:13:53 PDT 2010
+reconRootData/src
+
+Modified Files:
+	CalCluster.cxx 
+Log Message:
+Skewness calculation in the CAL moments analysis.
+    *
+------------------------------------------------------------
+User: lbaldini  Thu Apr 22 02:13:53 PDT 2010
 reconRootData/reconRootData
 
 Modified Files:
