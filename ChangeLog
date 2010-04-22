@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: lbaldini  Thu Apr 22 02:13:53 PDT 2010
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h 
+Log Message:
+Skewness calculation in the CAL moments analysis.
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-22-00, operation: add
 Package: reconRootData
