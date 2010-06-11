@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun 10 17:47:17 PDT 2010
+reconRootData
+
+Modified Files:
+	.cvsignore SConscript 
+Log Message:
+updates for SCons build
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-23-00, operation: add
 Package: reconRootData
