@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Jul 29 15:20:52 PDT 2010
+reconRootData/reconRootData
+
+Modified Files:
+	CalXtalRecData.h 
+Log Message:
+Adding a status bit word for helping to identify problem crystals. Note: default initialization is to zero for backward compatibility
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-23-01, operation: add
 Package: reconRootData
