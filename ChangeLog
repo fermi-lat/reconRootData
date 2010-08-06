@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug  6 12:04:57 PDT 2010
+GlastRelease-scons/reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+add new keyword args to Rootcint call
+    *
+------------------------------------------------------------
 User: usher  Thu Jul 29 15:20:53 PDT 2010
 reconRootData/src
 
