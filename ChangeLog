@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: bregeon  Tue Oct 12 08:56:58 PDT 2010
+reconRootData/src
+
+Added Files:
+	CalMSTreeParams.cxx 
+Log Message:
+add class clone for the new CalMSTreeParams param container
+    *
+------------------------------------------------------------
+User: bregeon  Tue Oct 12 08:56:58 PDT 2010
 reconRootData/reconRootData
 
 Added Files:
