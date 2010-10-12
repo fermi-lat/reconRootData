@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: bregeon  Tue Oct 12 08:55:49 PDT 2010
+reconRootData/src
+
+Modified Files:
+	CalCluster.cxx 
+Log Message:
+add CalMSTreeParams container to the reconrootdata CalCluster object
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-23-02, operation: add
 Package: reconRootData
