@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: bregeon  Tue Oct 12 08:55:49 PDT 2010
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h 
+Log Message:
+add CalMSTreeParams container to the reconrootdata CalCluster object
+    *
+------------------------------------------------------------
+User: bregeon  Tue Oct 12 08:55:49 PDT 2010
 reconRootData/src
 
 Modified Files:
