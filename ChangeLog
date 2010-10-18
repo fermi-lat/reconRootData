@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: bregeon  Mon Oct 18 07:45:39 PDT 2010
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h 
+Log Message:
+put new members m_mstreeParams and m_fitParams at the end of the declaration and increment the CalCluster ClassDef from 6 to 7 on Heather s request
+    *
+------------------------------------------------------------
 User: bregeon  Tue Oct 12 09:09:17 PDT 2010
 reconRootData/reconRootData
 
