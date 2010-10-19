@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: bregeon  Tue Oct 19 02:23:17 PDT 2010
+reconRootData/src
+
+Modified Files:
+	CalCluster.cxx 
+Log Message:
+clear m_fitParams when calling CalCluster::Clear() for consistency with m_treeParams and m_params, and print out m_fitPrams and m_mstreeParams when printing out CalCluster
+    *
+------------------------------------------------------------
 User: bregeon  Mon Oct 18 07:46:46 PDT 2010
 reconRootData/src
 
