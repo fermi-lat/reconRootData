@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Thu Oct 21 22:12:34 PDT 2010
+reconRootData/cmt
+
+Modified Files:
+      Tag: GlastReleasev15r47p12
+	requirements 
+Log Message:
+delete m_gcrTrack object
+    *
+------------------------------------------------------------
+User: heather  Thu Oct 21 22:12:34 PDT 2010
 reconRootData
 
 Modified Files:
