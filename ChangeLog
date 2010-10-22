@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Thu Oct 21 22:12:34 PDT 2010
+reconRootData
+
+Modified Files:
+      Tag: GlastReleasev15r47p12
+	SConscript 
+Log Message:
+delete m_gcrTrack object
+    *
+------------------------------------------------------------
 User: bregeon  Tue Oct 19 02:23:17 PDT 2010
 reconRootData/src
 
