@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Thu Oct 21 22:12:35 PDT 2010
+reconRootData/src
+
+Modified Files:
+      Tag: GlastReleasev15r47p12
+	CalRecon.cxx 
+Log Message:
+delete m_gcrTrack object
+    *
+------------------------------------------------------------
 User: heather  Thu Oct 21 22:12:34 PDT 2010
 reconRootData/doc
 
