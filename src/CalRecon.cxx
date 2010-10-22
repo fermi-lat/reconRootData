@@ -54,6 +54,7 @@ CalRecon::~CalRecon()
       
     if (m_gcrTrack) 
     {
+        delete m_gcrTrack;
         m_gcrTrack = 0;
     }
 
@@ -78,7 +79,10 @@ void CalRecon::Clear(Option_t* /* option */)
     if (m_mipTrackCol) m_mipTrackCol->Delete();
     if (m_gcrXtalCol) m_gcrXtalCol->Clear("C");
     m_indGcrXtal = -1;
-    if (m_gcrTrack) m_gcrTrack = 0;
+    if (m_gcrTrack) {
+        delete m_gcrTrack;
+        m_gcrTrack = 0;
+    }
 }
 
 void CalRecon::Print(Option_t *option) const 
