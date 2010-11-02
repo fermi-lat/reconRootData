@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: bregeon  Tue Nov  2 09:17:19 PDT 2010
+reconRootData/src
+
+Modified Files:
+	CalCluster.cxx 
+Log Message:
+add a new member that is a std::map<std string, double> to store the probabilities from the classification
+    *
+------------------------------------------------------------
 User: bregeon  Tue Nov  2 09:16:19 PDT 2010
 reconRootData/reconRootData
 
