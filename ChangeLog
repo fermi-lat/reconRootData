@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: bregeon  Tue Nov  2 09:15:07 PDT 2010
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h 
+Log Message:
+add a new member that is a std::map<std string, double> to store the probabilities from the classification, add also a getGamProb()
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-20-01-gr01, operation: add
 Package: reconRootData
