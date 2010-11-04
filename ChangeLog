@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: bregeon  Thu Nov  4 10:28:32 PDT 2010
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h 
+Log Message:
+add getTopologyProb, update getGamProb and fix gam prob init
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-24-00, operation: add
 Package: reconRootData
