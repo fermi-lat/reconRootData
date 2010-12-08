@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Tue Dec  7 22:29:47 PST 2010
+reconRootData/reconRootData
+
+Modified Files:
+	CalXtalRecData.h TkrRecon.h TkrTruncationData.h 
+Log Message:
+Mostly fixes to the truncation stuff, plus incrementing ClassDef in CalXtalRecData
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-24-02, operation: add
 Package: reconRootData
