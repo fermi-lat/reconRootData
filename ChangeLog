@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: lbaldini  Mon Dec 20 00:39:49 PST 2010
+reconRootData/reconRootData
+
+Modified Files:
+	CalMomParams.h 
+Log Message:
+A few more data members in the CalMomParams container.
+    *
+------------------------------------------------------------
 User: lbaldini  Sun Dec 19 09:21:40 PST 2010
 reconRootData/src
 
