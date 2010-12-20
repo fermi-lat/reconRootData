@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: lbaldini  Mon Dec 20 00:39:49 PST 2010
+reconRootData/src
+
+Modified Files:
+	CalMomParams.cxx 
+Log Message:
+A few more data members in the CalMomParams container.
+    *
+------------------------------------------------------------
+User: lbaldini  Mon Dec 20 00:39:49 PST 2010
 reconRootData/reconRootData
 
 Modified Files:
