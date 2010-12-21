@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: lbaldini  Tue Dec 21 08:05:16 PST 2010
+reconRootData/src
+
+Modified Files:
+	CalCluster.cxx CalFitParams.cxx CalMSTreeParams.cxx 
+Log Message:
+CalFitParams container refactored (now inheriting from CalParams).
+    *
+------------------------------------------------------------
+User: lbaldini  Tue Dec 21 08:05:16 PST 2010
 reconRootData/reconRootData
 
 Modified Files:
