@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: lbaldini  Tue Dec 21 01:57:48 PST 2010
+reconRootData/src
+
+Modified Files:
+	CalClassParams.cxx 
+Log Message:
+Conversion functions for the new CalClassParams container fixed.
+    *
+------------------------------------------------------------
+User: lbaldini  Tue Dec 21 01:57:48 PST 2010
 reconRootData/reconRootData
 
 Modified Files:
