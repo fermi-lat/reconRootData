@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: lbaldini  Wed Dec 22 04:39:57 PST 2010
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h LinkDef.h 
+Added Files:
+	CalXtalsParams.h 
+Log Message:
+Yet another container (hopefully the last one) added for the CAL clustering quantities.
+    *
+------------------------------------------------------------
 User: lbaldini  Tue Dec 21 08:21:04 PST 2010
 reconRootData/src
 
