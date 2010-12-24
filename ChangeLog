@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: lbaldini  Fri Dec 24 02:20:57 PST 2010
+reconRootData/reconRootData
+
+Modified Files:
+	CalFitParams.h 
+Log Message:
+Improvements in the CalFitParams tds-root conversion and minor formatting improvement.
+    *
+------------------------------------------------------------
 User: lbaldini  Fri Dec 24 01:26:26 PST 2010
 reconRootData/src
 
