@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lbaldini  Wed Jan  5 12:05:00 PST 2011
+reconRootData/src
+
+Modified Files:
+	CalClassParams.cxx CalFitParams.cxx CalMSTreeParams.cxx 
+	CalMomParams.cxx CalXtalsParams.cxx 
+Log Message:
+CompareInRange functions for the test program taken care of.
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-25-00, operation: add
 Package: reconRootData
