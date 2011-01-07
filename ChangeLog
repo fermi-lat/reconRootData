@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: lbaldini  Fri Jan  7 07:48:22 PST 2011
+reconRootData/cmt
+
+Added Files:
+	recon-v9r25-v5r26.root 
+Log Message:
+Initial import.
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-25-01, operation: add
 Package: reconRootData
