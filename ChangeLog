@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: lbaldini  Wed Jan 19 09:34:02 PST 2011
+reconRootData/src
+
+Modified Files:
+	CalXtalsParams.cxx 
+Log Message:
+Two more data members added to the CalXtalsParams container.
+    *
+------------------------------------------------------------
+User: lbaldini  Wed Jan 19 09:34:02 PST 2011
 reconRootData/reconRootData
 
 Modified Files:
