@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: lbaldini  Wed Jan 19 09:34:02 PST 2011
+reconRootData/reconRootData
+
+Modified Files:
+	CalXtalsParams.h 
+Log Message:
+Two more data members added to the CalXtalsParams container.
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-25-02, operation: add
 Package: reconRootData
