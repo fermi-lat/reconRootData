@@ -1,4 +1,20 @@
 ------------------------------------------------------------
+User: lbaldini  Fri Jan 21 06:02:57 PST 2011
+reconRootData/src
+
+Modified Files:
+	AcdEventTopology.cxx AcdPocaData.cxx AcdPocaDataV2.cxx 
+	AcdRecon.cxx AcdSplashVars.cxx AcdTkrAssoc.cxx 
+	AcdTkrGapPoca.cxx AcdTkrGapPocaV2.cxx AcdTkrHitPoca.cxx 
+	AcdTkrHitPocaV2.cxx AcdTkrIntersection.cxx 
+	AcdTkrLocalCoords.cxx AcdTkrLocalCoordsV2.cxx AcdTkrPoca.cxx 
+	AcdTkrPoint.cxx AcdTkrPointV2.cxx AdfRecon.cxx 
+	TaggerCluster.cxx TkrCluster.cxx TkrRecon.cxx TkrTrackHit.cxx 
+	TkrVertex.cxx 
+Log Message:
+First medium-size untabification.
+    *
+------------------------------------------------------------
 User: lbaldini  Fri Jan 21 06:02:56 PST 2011
 reconRootData/reconRootData
 
