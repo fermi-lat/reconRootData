@@ -1,4 +1,19 @@
 ------------------------------------------------------------
+User: lbaldini  Fri Jan 21 06:02:56 PST 2011
+reconRootData/reconRootData
+
+Modified Files:
+	AcdEventTopology.h AcdHit.h AcdPocaData.h AcdPocaDataV2.h 
+	AcdRecon.h AcdSplashVars.h AcdTkrAssoc.h AcdTkrGapPoca.h 
+	AcdTkrGapPocaV2.h AcdTkrHitPoca.h AcdTkrHitPocaV2.h 
+	AcdTkrIntersection.h AcdTkrLocalCoords.h AcdTkrLocalCoordsV2.h 
+	AcdTkrPoca.h AcdTkrPoint.h CalClusterLayerData.h 
+	CalCorToolResult.h CalRangeRecData.h TkrTrack.h TkrTrackHit.h 
+	TkrVertex.h 
+Log Message:
+First medium-size untabification.
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-26-01, operation: add
 Package: reconRootData
