@@ -1,22 +1,4 @@
 ------------------------------------------------------------
-User: heather  Tue Feb  1 20:38:27 PST 2011
-reconRootData/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-minor tweaks
-    *
-------------------------------------------------------------
-User: heather  Tue Feb  1 20:38:27 PST 2011
-reconRootData
-
-Modified Files:
-	SConscript 
-Log Message:
-minor tweaks
-    *
-------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-26-03, operation: add
 Package: reconRootData
