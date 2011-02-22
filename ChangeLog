@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Tue Feb 22 05:31:23 PST 2011
+reconRootData/reconRootData
+
+Modified Files:
+	CalClassParams.h CalCluster.h CalXtalRecData.h 
+Log Message:
+patch to unit test and CalClassParam
+    *
+------------------------------------------------------------
+User: heather  Tue Feb 22 05:31:23 PST 2011
 reconRootData/doc
 
 Modified Files:
