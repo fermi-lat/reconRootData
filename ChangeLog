@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Feb 22 05:31:22 PST 2011
+reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+patch to unit test and CalClassParam
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-26-04, operation: add
 Package: reconRootData
