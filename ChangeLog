@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: kadrlica  Wed Jun  1 03:24:12 PDT 2011
+reconRootData/reconRootData
+
+Modified Files:
+	TkrRecon.h 
+Log Message:
+Added separate cosmic-ray track collection
+    *
+------------------------------------------------------------
+User: kadrlica  Wed Jun  1 03:24:12 PDT 2011
 reconRootData/src
 
 Modified Files:
