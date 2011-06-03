@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: kadrlica  Fri Jun  3 15:29:50 PDT 2011
+reconRootData/reconRootData
+
+Modified Files:
+	CalMomParams.h 
+Log Message:
+Added member variable for storing ghost DOCA
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-26-07, operation: add
 Package: reconRootData
