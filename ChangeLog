@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jun  8 21:10:24 PDT 2011
+reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+update versions of classes with new members
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-20-01-gr02, operation: add
 Package: reconRootData
