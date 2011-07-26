@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Mon Jul 25 18:21:08 PDT 2011
+reconRootData
+
+Modified Files:
+      Tag: GlastReleasev17r38p1
+	SConscript 
+Log Message:
+merge in SCons updates
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-26-09, operation: add
 Package: reconRootData
