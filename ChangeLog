@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Thu Aug  4 12:32:46 PDT 2011
+reconRootData/doc
+
+Modified Files:
+      Tag: GlastReleasev17r38p1
+	release.notes 
+Log Message:
+patch SCons update
+    *
+------------------------------------------------------------
+User: heather  Thu Aug  4 12:32:46 PDT 2011
 reconRootData/cmt
 
 Modified Files:
