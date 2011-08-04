@@ -1,7 +1,7 @@
 # -*- python -*-
 # $Header$
 # Authors: Heather Kelly <heather@slac.stanford.edu>
-# Version: reconRootData-09-20-01-gr03
+# Version: reconRootData-09-20-01-gr04
 Import('baseEnv')
 Import('listFiles')
 Import('packages')
@@ -13,7 +13,6 @@ libEnv.Tool('addLinkDeps', package='reconRootData', toBuild='rootlib')
 reconRootDataRootcint = libEnv.Rootcint('reconRootData/reconRootData_rootcint',
                                         ['reconRootData/AdfRecon.h',
                                          'reconRootData/AcdRecon.h',
-                                         'reconRootData/AcdReconV2.h',
                                          'reconRootData/CalParams.h',
                                          'reconRootData/CalClusterLayerData.h',
                                          'reconRootData/CalCluster.h',
@@ -23,7 +22,6 @@ reconRootDataRootcint = libEnv.Rootcint('reconRootData/reconRootData_rootcint',
                                          'reconRootData/CalRangeRecData.h',
                                          'reconRootData/CalXtalRecData.h',
                                          'reconRootData/ReconEvent.h',
-                                         'reconRootData/AcdEventTopology.h',
                                          'reconRootData/AcdTkrIntersection.h',
                                          'reconRootData/AcdTkrPoca.h',
                                          'reconRootData/AcdHit.h',
@@ -33,11 +31,6 @@ reconRootDataRootcint = libEnv.Rootcint('reconRootData/reconRootData_rootcint',
                                          'reconRootData/AcdTkrHitPoca.h',
                                          'reconRootData/AcdTkrGapPoca.h',
                                          'reconRootData/AcdSplashVars.h',
-                                         'reconRootData/AcdPocaDataV2.h', 
-                                         'reconRootData/AcdTkrLocalCoordsV2.h',
-                                         'reconRootData/AcdTkrPointV2.h',
-                                         'reconRootData/AcdTkrHitPocaV2.h',
-                                         'reconRootData/AcdTkrGapPocaV2.h',
                                          'reconRootData/TkrCluster.h',
                                          'reconRootData/TkrTrack.h',
                                          'reconRootData/TkrTrackHit.h',
