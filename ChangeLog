@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Thu Aug  4 12:32:46 PDT 2011
+reconRootData
+
+Modified Files:
+      Tag: GlastReleasev17r38p1
+	SConscript 
+Log Message:
+patch SCons update
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease_Pass7-17-35-23-gr08, operation: add
 Package: reconRootData
