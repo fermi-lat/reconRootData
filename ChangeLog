@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Wed Aug 17 10:16:25 PDT 2011
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+moved root test files to data directory and use RECONROOTDATADATAPATH env variable
+    *
+------------------------------------------------------------
+User: heather  Wed Aug 17 10:16:25 PDT 2011
 reconRootData
 
 Modified Files:
