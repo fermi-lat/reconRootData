@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Aug 17 10:16:25 PDT 2011
+reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+moved root test files to data directory and use RECONROOTDATADATAPATH env variable
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr02, operation: add
 Package: reconRootData
