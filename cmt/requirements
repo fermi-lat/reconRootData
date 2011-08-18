@@ -48,4 +48,6 @@ apply_pattern root_package headers="\
 
 private
 use facilities v*
-set TESTDATAROOT "${RECONROOTDATAROOT}/cmt"
+
+# HMK replacing TESTDATAROOT with RECONROOTDATADATAPATH
+#set TESTDATAROOT "${RECONROOTDATAROOT}/cmt"

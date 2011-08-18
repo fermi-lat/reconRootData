@@ -11,6 +11,7 @@
 #include "Riostream.h"
 #include <string>
 #include "facilities/Util.h"
+#include "facilities/commonUtilities.h"
 
 
 /** @file testReconClasses.cxx
@@ -194,7 +195,8 @@ int write(const char* fileName, int numEvents) {
 /// Returns -1 for failure.
 int main(int argc, char **argv) {
     
-    std::string fileStr("$(TESTDATAROOT)/recon-v9r11-v5r10.root");
+    facilities::commonUtilities::setupEnvironment();
+    std::string fileStr("$(RECONROOTDATADATAPATH)/recon-v9r11-v5r10.root");
     facilities::Util::expandEnvVar(&fileStr);
     //char * fileName = "recon-v9r11-v5r10.root" ;
     const char *fileName = fileStr.c_str();
