@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Wed Aug 17 20:44:57 PDT 2011
+reconRootData/data
+
+Added Files:
+      Tag: GlastReleasev17r38p1
+	recon-v9r11-v5r10.root recon-v9r11-v5r14.root 
+Log Message:
+copying root test files into data directory for P7
+    *
+------------------------------------------------------------
+User: heather  Wed Aug 17 20:44:57 PDT 2011
 reconRootData/cmt
 
 Modified Files:
