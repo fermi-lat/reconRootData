@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Aug 31 10:18:27 PDT 2011
+reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+fix up SCons build for unit test by setting up data directory properly
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-19-03-05, operation: add
 Package: reconRootData
