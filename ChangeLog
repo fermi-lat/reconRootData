@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Aug 31 10:18:28 PDT 2011
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+fix up SCons build for unit test by setting up data directory properly
+    *
+------------------------------------------------------------
 User: heather  Wed Aug 31 10:18:27 PDT 2011
 reconRootData
 
