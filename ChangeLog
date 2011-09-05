@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: kadrlica  Mon Sep  5 16:46:45 PDT 2011
+reconRootData/reconRootData
+
+Added Files:
+	AcdCalAssoc.h 
+Log Message:
+Added a root version of AcdCalAssoc. Pretty much carbon copy of AcdTkrAssoc
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-19-03-07, operation: add
 Package: reconRootData
