@@ -2,6 +2,19 @@
 TAG
 Tag name: GlastRelease-17-35-24-gr04, operation: add
 Package: reconRootData
+User: heather  Wed Sep  7 14:21:33 2011
+Files:
+  reconRootData/cmt/recon-v9r11-v5r10.root  1.2
+  reconRootData/cmt/.cvsignore  1.3
+  reconRootData/cmt/requirements  1.140.4.7
+  reconRootData/cmt/recon-v9r11-v5r14.root  1.2
+  reconRootData/cmt/Makefile  1.1.1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-gr04, operation: add
+Package: reconRootData
 User: heather  Wed Sep  7 14:21:27 2011
 Files:
   reconRootData/.cvsignore  1.4
