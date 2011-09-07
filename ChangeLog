@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-17-35-24-gr04, operation: add
+Package: reconRootData
+User: heather  Wed Sep  7 14:21:27 2011
+Files:
+  reconRootData/.cvsignore  1.4
+  reconRootData/ChangeLog  1.725
+  reconRootData/SConscript  1.6.4.6
+  reconRootData/reconRootDataLib.py  1.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: reconRootData-09-20-01-gr06, operation: add
 Package: reconRootData
 User: heather  Wed Sep  7 13:33:03 2011
