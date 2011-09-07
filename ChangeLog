@@ -2,6 +2,16 @@
 TAG
 Tag name: GlastRelease-17-35-24-gr04, operation: add
 Package: reconRootData
+User: heather  Wed Sep  7 14:21:49 2011
+Files:
+  reconRootData/doc/images/reconTree.gif  1.2
+  reconRootData/doc/styles/site.css  1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-gr04, operation: add
+Package: reconRootData
 User: heather  Wed Sep  7 14:21:39 2011
 Files:
   reconRootData/doc/release.notes  1.118.4.6
