@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Wed Oct 19 09:31:38 PDT 2011
+reconRootData
+
+Modified Files:
+      Tag: GlastReleasev17r38p1
+	SConscript 
+Log Message:
+mods for reading mode to avaoid ROOT using deleted objects from our TkrRecon memory pool
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr09, operation: add
 Package: reconRootData
