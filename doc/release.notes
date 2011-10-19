@@ -4,6 +4,8 @@ package manager:H.Kelly
 @verbatim
 * EOH *
 
+reconRootData-09-20-01-gr07 19-Oct-2011 HMK Patch TkrRecon memory management
+    when reading files to avoid ROOT filling deleted objects in our memory pool
 reconRootData-09-20-01-gr06 07-Sep-2011 HMK Apply SCons patch
 reconRootData-09-20-01-gr05 17-Aug-2011 HMK copy root test files into data directory
 reconRootData-09-20-01-gr03 04-Aug-2011 HMK Patch SCOns update

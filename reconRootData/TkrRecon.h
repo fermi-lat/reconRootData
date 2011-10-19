@@ -69,6 +69,8 @@ public:
     const TkrDiagnostics* getDiagnostics() { return m_diagnostics;};
     void addDiagnostics(TkrDiagnostics* diagnostics) { m_diagnostics = diagnostics;};
 
+    void setWriteFlag(bool flag);
+
 private:
     /// collection of TkrSiCluster
     TObjArray *m_clusterCol;

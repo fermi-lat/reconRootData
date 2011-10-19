@@ -52,6 +52,9 @@ public:
     /// "Delete" all objects
     void Delete(const char* opt="");
 
+
+    void setWriteFlag(bool flag) { m_writeFlag = flag; }
+
 private:
     /// The constructor is private since this is a singleton
     ReconObjectManager();   
@@ -78,5 +81,7 @@ private:
     /// Define a "pool" for TkrVertex and an iterator for accessing them
     std::list<TkrVertex>                m_tkrVertexPool;
     std::list<TkrVertex>::iterator      m_tkrVertexPoolIdx;
+  
+    bool m_writeFlag; // let manager know if we are in write or read mode
 };
 #endif //ReconObjectManager_H
