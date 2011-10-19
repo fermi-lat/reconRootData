@@ -30,7 +30,8 @@ ReconObjectManager::ReconObjectManager() : m_tkrClusterPool(CLUSTERPOOLSIZE),
                                            m_tkrTrackPool(TRACKPOOLSIZE),
                                            m_tkrTrackHitPool(TRACKHITPOOLSIZE),
                                            m_tkrTrackParamsPool(TRACKPARAMSPOOLSIZE),
-                                           m_tkrVertexPool(VERTEXPOOLSIZE)
+                                           m_tkrVertexPool(VERTEXPOOLSIZE),
+                                           m_writeFlag(false)
 {
     // Set pool iterators to the first item in each pool
     m_tkrClusterPoolIdx     = m_tkrClusterPool.begin();
@@ -169,6 +170,10 @@ TkrVertex* ReconObjectManager::getNewTkrVertex()
 
 void ReconObjectManager::Delete(const char* opt)
 {
+// Only resize pools when writing, when reading, resizing can lead to 
+// invalid reads, where it seems the "deleted" elements in the pools are not
+// entirely deleted and they are "reused" when reading 
+if (m_writeFlag) {
     if (opt[0] == 'A') {
 
         m_tkrClusterPool.clear();
@@ -215,6 +220,7 @@ void ReconObjectManager::Delete(const char* opt)
     {
         m_tkrVertexPool.resize(5*VERTEXPOOLSIZE);
     }
+}
 
     // Ok, reset iterators to first element of our pools
     m_tkrClusterPoolIdx     = m_tkrClusterPool.begin();

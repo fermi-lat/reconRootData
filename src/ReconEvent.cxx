@@ -42,6 +42,7 @@ void ReconEvent::initialize(UInt_t eventId, UInt_t runId, TkrRecon *tkr, CalReco
     m_eventId = eventId;
     m_runId = runId;
     m_tkr = tkr;
+    m_tkr->setWriteFlag(true);
     m_cal = cal;
     m_acd = acd;
 }

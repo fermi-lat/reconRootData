@@ -43,6 +43,10 @@ void TkrRecon::Clear(Option_t* option) {
     ReconObjectManager::getPointer()->Delete(option);
 }
 
+void TkrRecon::setWriteFlag(bool flag) {
+     ReconObjectManager::getPointer()->setWriteFlag(flag);
+}
+
 
 void TkrRecon::Print(Option_t *option) const {
     TObject::Print(option);
