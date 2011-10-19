@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Wed Oct 19 09:31:38 PDT 2011
+reconRootData/cmt
+
+Modified Files:
+      Tag: GlastReleasev17r38p1
+	requirements 
+Log Message:
+mods for reading mode to avaoid ROOT using deleted objects from our TkrRecon memory pool
+    *
+------------------------------------------------------------
+User: heather  Wed Oct 19 09:31:38 PDT 2011
 reconRootData
 
 Modified Files:
