@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: heather  Wed Oct 19 09:31:39 PDT 2011
+reconRootData/src
+
+Modified Files:
+      Tag: GlastReleasev17r38p1
+	ReconEvent.cxx ReconObjectManager.cxx ReconObjectManager.h 
+	TkrRecon.cxx 
+Log Message:
+mods for reading mode to avaoid ROOT using deleted objects from our TkrRecon memory pool
+    *
+------------------------------------------------------------
+User: heather  Wed Oct 19 09:31:39 PDT 2011
 reconRootData/reconRootData
 
 Modified Files:
