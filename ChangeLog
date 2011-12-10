@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: kadrlica  Fri Dec  9 17:13:13 PST 2011
+reconRootData/src
+
+Modified Files:
+	AcdCalAssoc.cxx 
+Log Message:
+Fix functions to output covariance matrices to recon
+    *
+------------------------------------------------------------
 User: kadrlica  Fri Dec  9 17:13:10 PST 2011
 reconRootData/src
 
