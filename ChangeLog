@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: kadrlica  Fri Mar 16 13:50:28 PDT 2012
+reconRootData/src
+
+Modified Files:
+      Tag: GlastReleasev19r4p1
+	AcdTkrHitPocaV2.cxx 
+Log Message:
+Added ACD flags to the HitPoca
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-lp19, operation: add
 Package: reconRootData
