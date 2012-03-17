@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Sat Mar 17 10:22:26 PDT 2012
+reconRootData/doc
+
+Modified Files:
+      Tag: GlastReleasev19r4p1
+	release.notes 
+Log Message:
+add ACD flags to HitPoca
+    *
+------------------------------------------------------------
+User: heather  Sat Mar 17 10:22:26 PDT 2012
 reconRootData/cmt
 
 Modified Files:
