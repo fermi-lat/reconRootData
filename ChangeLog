@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Sat Mar 17 10:22:25 PDT 2012
+reconRootData
+
+Modified Files:
+      Tag: GlastReleasev19r4p1
+	SConscript 
+Log Message:
+add ACD flags to HitPoca
+    *
+------------------------------------------------------------
 User: kadrlica  Fri Mar 16 13:50:29 PDT 2012
 reconRootData/reconRootData
 
