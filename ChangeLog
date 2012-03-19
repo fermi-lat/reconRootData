@@ -1,5 +1,18 @@
 ------------------------------------------------------------
 User: kadrlica  Mon Mar 19 08:32:09 PDT 2012
+reconRootData/src
+
+Modified Files:
+      Tag: GlastReleasev19r4p1
+	AcdReconV2.cxx 
+Added Files:
+      Tag: GlastReleasev19r4p1
+	AcdAssoc.cxx 
+Log Message:
+Replace Acd[Tkr|Cal]Assoc with AcdAssoc
+    *
+------------------------------------------------------------
+User: kadrlica  Mon Mar 19 08:32:09 PDT 2012
 reconRootData/reconRootData
 
 Modified Files:
