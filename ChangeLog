@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: kadrlica  Mon Mar 19 08:19:11 PDT 2012
+reconRootData/reconRootData
+
+Removed Files:
+      Tag: GlastReleasev19r4p1
+	AcdTkrAssoc.h AcdCalAssoc.h 
+Log Message:
+Removed Acd[Tkr|Cal]Assoc to replace with AcdAssoc
+    *
+------------------------------------------------------------
+User: kadrlica  Mon Mar 19 08:19:11 PDT 2012
 reconRootData/src
 
 Removed Files:
