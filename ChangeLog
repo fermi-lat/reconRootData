@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: kadrlica  Mon Mar 19 08:19:11 PDT 2012
+reconRootData/src
+
+Removed Files:
+      Tag: GlastReleasev19r4p1
+	AcdTkrAssoc.cxx AcdCalAssoc.cxx 
+Log Message:
+Removed Acd[Tkr|Cal]Assoc to replace with AcdAssoc
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-09-27-02-gr01, operation: add
 Package: reconRootData
