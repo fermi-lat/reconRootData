@@ -37,8 +37,7 @@ apply_pattern root_package headers="\
  ../reconRootData/AcdTkrPointV2.h\
  ../reconRootData/AcdTkrHitPocaV2.h\
  ../reconRootData/AcdTkrGapPocaV2.h\
- ../reconRootData/AcdTkrAssoc.h\
- ../reconRootData/AcdCalAssoc.h\
+ ../reconRootData/AcdAssoc.h\
  ../reconRootData/TkrCluster.h\
  ../reconRootData/TkrTrack.h\
  ../reconRootData/TkrTrackHit.h\
