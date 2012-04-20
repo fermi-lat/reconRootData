@@ -73,6 +73,11 @@ public:
     return m_vetoSigmaHit;
   }
   
+  /// Return true if more than 0.001 MIPs
+  inline Bool_t hasHit() const {
+    return ( m_mips[0] > 0.001 || m_mips[1] > 0.001 );
+  }
+
   /// An estimator of the number of sigma needed for this track to hit this element
   inline Float_t vetoSigmaProj() const {
     return m_vetoSigmaProj;
