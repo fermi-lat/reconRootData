@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: kadrlica  Thu Apr 19 21:12:16 PDT 2012
+reconRootData/reconRootData
+
+Modified Files:
+      Tag: GlastReleasev19r4p1
+	AcdHit.h 
+Log Message:
+Fixed bug in PMT_VETO_MASK. Added getTileEnergy to replicate tds version. Added getters for ghost and trigger information
+    *
+------------------------------------------------------------
 User: kadrlica  Thu Apr 19 20:59:48 PDT 2012
 reconRootData/reconRootData
 
