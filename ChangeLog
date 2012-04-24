@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Tue Apr 24 16:56:47 PDT 2012
+GlastRelease-scons/reconRootData
+
+Modified Files:
+	SConscript reconRootDataLib.py 
+Log Message:
+get rid of bogus dependence of our libary on facilities library
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr27, operation: add
 Package: reconRootData
