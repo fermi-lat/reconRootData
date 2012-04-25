@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: heather  Tue Apr 24 21:53:06 PDT 2012
+reconRootData/src
+
+Modified Files:
+	AcdEventTopology.cxx AcdReconV2.cxx AcdTkrHitPocaV2.cxx 
+Added Files:
+	AcdAssoc.cxx 
+Log Message:
+merge in P8 branch
+    *
+------------------------------------------------------------
+User: heather  Tue Apr 24 21:53:06 PDT 2012
 reconRootData/reconRootData
 
 Modified Files:
