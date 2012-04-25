@@ -1,22 +1,4 @@
 ------------------------------------------------------------
-User: heather  Wed Apr 25 13:54:52 PDT 2012
-reconRootData/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-patch merge by removing AcdTkrAssoc and AcdCalAssoc
-    *
-------------------------------------------------------------
-User: heather  Wed Apr 25 13:54:51 PDT 2012
-reconRootData
-
-Modified Files:
-	SConscript 
-Log Message:
-patch merge by removing AcdTkrAssoc and AcdCalAssoc
-    *
-------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr30, operation: add
 Package: reconRootData
