@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Apr 25 13:54:53 PDT 2012
+reconRootData/src
+
+Removed Files:
+	AcdCalAssoc.cxx AcdTkrAssoc.cxx 
+Log Message:
+patch merge by removing AcdTkrAssoc and AcdCalAssoc
+    *
+------------------------------------------------------------
 User: heather  Wed Apr 25 13:54:52 PDT 2012
 reconRootData/doc
 
