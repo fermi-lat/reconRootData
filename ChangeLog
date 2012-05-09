@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: lsrea  Tue May  8 18:26:19 PDT 2012
+reconRootData/reconRootData
+
+Modified Files:
+	AcdEventTopology.h AcdTkrHitPocaV2.h TkrTrack.h 
+Log Message:
+Add range Energy variable to TkrTrack object
+increment ClassDefs for AcdTkrHitPocaV2 and AcdEventTopology
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr31, operation: add
 Package: reconRootData
