@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: lsrea  Tue May  8 18:26:20 PDT 2012
+reconRootData/src
+
+Modified Files:
+	TkrTrack.cxx 
+Log Message:
+Add range Energy variable to TkrTrack object
+increment ClassDefs for AcdTkrHitPocaV2 and AcdEventTopology
+
+    *
+------------------------------------------------------------
 User: lsrea  Tue May  8 18:26:19 PDT 2012
 reconRootData/reconRootData
 
