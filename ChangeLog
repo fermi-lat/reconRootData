@@ -2,6 +2,18 @@
 TAG
 Tag name: GlastRelease-17-35-24-lp23, operation: add
 Package: reconRootData
+User: heather  Thu May 17 21:16:55 2012
+Files:
+  reconRootData/src/test/testReconClasses.cxx  1.40.480.1
+  reconRootData/src/test/.cvsignore  1.1
+  reconRootData/src/test/leaktest.cxx  1.14
+  reconRootData/src/test/.rootrc  1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-lp23, operation: add
+Package: reconRootData
 User: heather  Thu May 17 21:16:50 2012
 Files:
   reconRootData/.cvsignore  1.4
