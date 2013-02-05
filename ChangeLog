@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: usher  Tue Feb  5 12:06:57 PST 2013
+reconRootData/src
+
+Modified Files:
+	TkrRecon.cxx 
+Added Files:
+	TkrEventParams.cxx TreeClusterRelation.cxx 
+Log Message:
+Adding the last two Tracker/Tree related objects: TkrEventParams and TreeClusterRelation
+    *
+------------------------------------------------------------
 User: usher  Tue Feb  5 12:06:56 PST 2013
 reconRootData/reconRootData
 
