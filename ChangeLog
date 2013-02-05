@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Tue Feb  5 07:49:52 PST 2013
+reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+Updating reconRootData for the input/output of the Tree Based Tracking related objects
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-20-08-06, operation: add
 Package: reconRootData
