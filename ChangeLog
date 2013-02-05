@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Tue Feb  5 12:06:56 PST 2013
+reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+Adding the last two Tracker/Tree related objects: TkrEventParams and TreeClusterRelation
+    *
+------------------------------------------------------------
 User: usher  Tue Feb  5 07:49:53 PST 2013
 reconRootData/src
 
