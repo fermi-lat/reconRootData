@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: usher  Tue Feb  5 07:49:53 PST 2013
+reconRootData/src
+
+Modified Files:
+	ReconObjectManager.cxx ReconObjectManager.h TkrRecon.cxx 
+Added Files:
+	TkrFilterParams.cxx TkrTree.cxx TkrVecNodes.cxx 
+	TkrVecPoint.cxx TkrVecPointsLink.cxx 
+Log Message:
+Updating reconRootData for the input/output of the Tree Based Tracking related objects
+    *
+------------------------------------------------------------
+User: usher  Tue Feb  5 07:49:53 PST 2013
 reconRootData/reconRootData
 
 Modified Files:
