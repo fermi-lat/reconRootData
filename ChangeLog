@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: usher  Tue Feb  5 07:49:53 PST 2013
+reconRootData/reconRootData
+
+Modified Files:
+	LinkDef.h TkrRecon.h 
+Added Files:
+	TkrFilterParams.h TkrTree.h TkrVecNodes.h TkrVecPoint.h 
+	TkrVecPointsLink.h 
+Log Message:
+Updating reconRootData for the input/output of the Tree Based Tracking related objects
+    *
+------------------------------------------------------------
 User: usher  Tue Feb  5 07:49:52 PST 2013
 reconRootData
 
