@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Thu Feb  7 11:39:45 PST 2013
+reconRootData/src
+
+Modified Files:
+	CalXtalsParams.cxx TkrVecNodes.cxx 
+Log Message:
+ditch all the gcc warnings to make me happy
+    *
+------------------------------------------------------------
+User: heather  Thu Feb  7 11:39:45 PST 2013
 reconRootData/reconRootData
 
 Modified Files:
