@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Wed Feb  6 20:05:18 PST 2013
+reconRootData/src
+
+Modified Files:
+	TkrTree.cxx TkrVecPointsLink.cxx 
+Log Message:
+Fixing two bugs affecting access, ownership and properly clearing at end of event
+    *
+------------------------------------------------------------
 User: usher  Wed Feb  6 20:05:17 PST 2013
 reconRootData/reconRootData
 
