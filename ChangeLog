@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Wed Feb  6 20:05:17 PST 2013
+reconRootData/reconRootData
+
+Modified Files:
+	TkrTree.h TkrVecNodes.h 
+Log Message:
+Fixing two bugs affecting access, ownership and properly clearing at end of event
+    *
+------------------------------------------------------------
 User: usher  Tue Feb  5 12:06:57 PST 2013
 reconRootData/src
 
