@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: usher  Fri Feb  8 16:23:14 PST 2013
+reconRootData/src
+
+Modified Files:
+	TkrTree.cxx TkrVecNodes.cxx 
+Log Message:
+Change TRefArray to TObjArray for locally stored information
+    *
+------------------------------------------------------------
+User: usher  Fri Feb  8 16:23:14 PST 2013
 reconRootData/reconRootData
 
 Modified Files:
