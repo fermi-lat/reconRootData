@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: usher  Thu Feb 14 12:07:44 PST 2013
+reconRootData/reconRootData
+
+Modified Files:
+	CalClassParams.h CalParams.h CalXtalsParams.h 
+	TreeClusterRelation.h 
+Log Message:
+Modifications to solve the CalCluster <--> CalXtalRecData readback issue which appears to be due to TreeClusterRelation making a copy of the CalCluster
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-20-08-07, operation: add
 Package: reconRootData
