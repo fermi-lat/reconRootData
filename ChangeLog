@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Feb 21 14:11:26 PST 2013
+reconRootData/src
+
+Modified Files:
+	AcdRecon.cxx 
+Log Message:
+move from Double32 to Double
+    *
+------------------------------------------------------------
 User: heather  Thu Feb 21 14:11:25 PST 2013
 reconRootData/reconRootData
 
