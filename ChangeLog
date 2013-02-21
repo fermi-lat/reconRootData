@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Feb 21 14:11:24 PST 2013
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+move from Double32 to Double
+    *
+------------------------------------------------------------
 User: heather  Thu Feb 21 14:11:23 PST 2013
 reconRootData/cmt
 
