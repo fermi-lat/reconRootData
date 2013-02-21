@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: heather  Thu Feb 21 14:11:25 PST 2013
+reconRootData/reconRootData
+
+Modified Files:
+	AcdRecon.h AcdTkrIntersection.h CalCluster.h 
+	CalClusterLayerData.h CalCorToolResult.h CalFitParams.h 
+	CalMSTreeParams.h CalMipTrack.h CalParams.h CalRangeRecData.h 
+	TkrTrack.h TkrTrackHit.h TkrTrackParams.h TkrVertex.h 
+	TreeClusterRelation.h 
+Log Message:
+move from Double32 to Double
+    *
+------------------------------------------------------------
 User: heather  Thu Feb 21 14:11:24 PST 2013
 reconRootData/doc
 
