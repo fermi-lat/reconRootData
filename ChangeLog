@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: bregeon  Thu Feb 21 05:51:30 PST 2013
+reconRootData/src
+
+Modified Files:
+	CalXtalRecData.cxx 
+Log Message:
+CalXtalRecData::getEnergy() now uses the geometric mean
+    *
+------------------------------------------------------------
+User: bregeon  Thu Feb 21 05:51:30 PST 2013
 reconRootData/reconRootData
 
 Modified Files:
