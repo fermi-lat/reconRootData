@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Feb 21 14:11:23 PST 2013
+reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+move from Double32 to Double
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-10-00-03, operation: add
 Package: reconRootData
