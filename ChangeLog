@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: usher  Fri May  3 12:38:52 PDT 2013
+reconRootData/reconRootData
+
+Modified Files:
+	LinkDef.h TkrRecon.h 
+Added Files:
+	CalEventEnergyMap.h TkrTreeCompressed.h 
+	TkrVecNodesCompressed.h 
+Log Message:
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-20-08-12-br01, operation: add
 Package: reconRootData
