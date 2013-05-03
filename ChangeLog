@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: usher  Fri May  3 12:39:54 PDT 2013
+reconRootData/src
+
+Modified Files:
+	ReconObjectManager.cxx ReconObjectManager.h 
+Added Files:
+	TkrTreeCompressed.cxx TkrVecNodesCompressed.cxx 
+Log Message:
+    *
+------------------------------------------------------------
 User: usher  Fri May  3 12:38:52 PDT 2013
 reconRootData/reconRootData
 
