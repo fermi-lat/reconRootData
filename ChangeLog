@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: usher  Mon May  6 09:57:35 PDT 2013
+reconRootData/reconRootData
+
+Modified Files:
+	CalRecon.h LinkDef.h 
+Removed Files:
+	CalEventEnergyMap.h 
+Log Message:
+Fix crash on linux with "deleting" vs "clearing", remove explicit definition of CalEventEnergyMap, unnecessary as its implement simply as a TMap
+    *
+------------------------------------------------------------
 User: usher  Fri May  3 12:52:15 PDT 2013
 reconRootData/src
 
