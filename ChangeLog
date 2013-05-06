@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: usher  Mon May  6 09:57:36 PDT 2013
+reconRootData/src
+
+Modified Files:
+	CalRecon.cxx 
+Removed Files:
+	CalEventEnergyMap.cxx 
+Log Message:
+Fix crash on linux with "deleting" vs "clearing", remove explicit definition of CalEventEnergyMap, unnecessary as its implement simply as a TMap
+    *
+------------------------------------------------------------
 User: usher  Mon May  6 09:57:35 PDT 2013
 reconRootData/reconRootData
 
