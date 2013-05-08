@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Wed May  8 10:22:50 PDT 2013
+reconRootData/src
+
+Modified Files:
+	CalRecon.cxx 
+Log Message:
+Removing the redundant reference to the CalEventEnergyCol
+    *
+------------------------------------------------------------
 User: usher  Wed May  8 10:22:49 PDT 2013
 reconRootData/reconRootData
 
