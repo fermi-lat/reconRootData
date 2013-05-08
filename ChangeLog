@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Wed May  8 10:22:49 PDT 2013
+reconRootData/reconRootData
+
+Modified Files:
+	CalRecon.h 
+Log Message:
+Removing the redundant reference to the CalEventEnergyCol
+    *
+------------------------------------------------------------
 User: usher  Mon May  6 09:57:36 PDT 2013
 reconRootData/src
 
