@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Wed May  8 18:25:41 PDT 2013
+reconRootData/reconRootData
+
+Modified Files:
+	ReconEvent.h 
+Log Message:
+Remove references to old ACD to save space
+    *
+------------------------------------------------------------
 User: usher  Wed May  8 10:22:50 PDT 2013
 reconRootData/src
 
