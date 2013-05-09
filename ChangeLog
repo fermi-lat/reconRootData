@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: usher  Thu May  9 11:15:57 PDT 2013
+reconRootData/src
+
+Added Files:
+	TkrVecPointInfo.cxx 
+Log Message:
+Adding (hopefully the last object) TkrVecPointInfo
+    *
+------------------------------------------------------------
+User: usher  Thu May  9 11:15:57 PDT 2013
 reconRootData/reconRootData
 
 Modified Files:
