@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Wed May 15 13:53:34 PDT 2013
+reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+Preparing to tag reconRootData-12-00-00
+    *
+------------------------------------------------------------
 TAG
 Tag name: reconRootData-12-00-00, operation: add
 Package: reconRootData
