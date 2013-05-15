@@ -1,4 +1,20 @@
 ------------------------------------------------------------
+User: usher  Wed May 15 12:01:36 PDT 2013
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h CalClusterLayerData.h CalCorToolResult.h 
+	CalFitParams.h CalMSTreeParams.h CalMipTrack.h CalMomParams.h 
+	CalParams.h CalRangeRecData.h CalXtalsParams.h GcrXtal.h 
+	TaggerCluster.h TkrDiagnostics.h TkrEventParams.h 
+	TkrFilterParams.h TkrTrack.h TkrTrackHit.h TkrTrackParams.h 
+	TkrTree.h TkrTreeCompressed.h TkrVecNodes.h 
+	TkrVecNodesCompressed.h TkrVecPointInfo.h TkrVecPointsLink.h 
+	TkrVertex.h TreeClusterRelation.h 
+Log Message:
+Swapping from Double_t to Double32_t
+    *
+------------------------------------------------------------
 User: usher  Thu May  9 11:15:57 PDT 2013
 reconRootData/src
 
