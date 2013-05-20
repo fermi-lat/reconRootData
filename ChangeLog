@@ -1,4 +1,19 @@
 ------------------------------------------------------------
+User: heather  Sun May 19 21:59:37 PDT 2013
+reconRootData/reconRootData
+
+Modified Files:
+	CalCluster.h CalClusterLayerData.h CalCorToolResult.h 
+	CalFitParams.h CalMSTreeParams.h CalMipTrack.h CalMomParams.h 
+	CalParams.h CalRangeRecData.h CalRecon.h CalXtalsParams.h 
+	GcrXtal.h TaggerCluster.h TkrDiagnostics.h TkrEventParams.h 
+	TkrFilterParams.h TkrTrack.h TkrTrackHit.h TkrTrackParams.h 
+	TkrTree.h TkrVecNodes.h TkrVecPointsLink.h TkrVertex.h 
+	TreeClusterRelation.h 
+Log Message:
+update ClassDefs for move to Double32
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-20-08-13, operation: add
 Package: reconRootData
