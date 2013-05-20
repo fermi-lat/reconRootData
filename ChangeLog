@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon May 20 11:10:22 PDT 2013
+reconRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+updating unit test to handle new TMap in CalRecon
+    *
+------------------------------------------------------------
 User: heather  Mon May 20 11:10:21 PDT 2013
 reconRootData/data
 
