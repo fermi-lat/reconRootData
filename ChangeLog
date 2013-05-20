@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon May 20 11:10:20 PDT 2013
+reconRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+updating unit test to handle new TMap in CalRecon
+    *
+------------------------------------------------------------
 User: heather  Mon May 20 11:10:19 PDT 2013
 reconRootData
 
