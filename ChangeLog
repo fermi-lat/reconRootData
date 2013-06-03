@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: echarles  Mon Jun  3 14:14:01 PDT 2013
+reconRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+stag/GoGui_auto-tag
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-lp46, operation: add
 Package: reconRootData
