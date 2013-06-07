@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Thu Jun  6 18:30:16 PDT 2013
+reconRootData/reconRootData
+
+Modified Files:
+	TkrCluster.h 
+Log Message:
+Add status bits for Trees and merged clusters
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-20-08-16, operation: add
 Package: reconRootData
