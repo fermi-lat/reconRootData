@@ -1,31 +1,4 @@
 ------------------------------------------------------------
-User: heather  Tue Jun 11 10:00:11 PDT 2013
-reconRootData/doc
-
-Modified Files:
-	release.notes 
-Log Message:
-delete GcrTrack from CalRecon obj
-    *
-------------------------------------------------------------
-User: heather  Tue Jun 11 10:00:10 PDT 2013
-reconRootData/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-delete GcrTrack from CalRecon obj
-    *
-------------------------------------------------------------
-User: heather  Tue Jun 11 10:00:09 PDT 2013
-reconRootData
-
-Modified Files:
-	SConscript 
-Log Message:
-delete GcrTrack from CalRecon obj
-    *
-------------------------------------------------------------
 TAG
 Tag name: reconRootData-12-01-01, operation: add
 Package: reconRootData
