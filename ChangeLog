@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jun 11 10:00:12 PDT 2013
+reconRootData/src
+
+Modified Files:
+	CalRecon.cxx 
+Log Message:
+delete GcrTrack from CalRecon obj
+    *
+------------------------------------------------------------
 User: heather  Tue Jun 11 10:00:11 PDT 2013
 reconRootData/doc
 
