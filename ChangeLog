@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Tue Jun 18 21:33:48 PDT 2013
+reconRootData/reconRootData
+
+Modified Files:
+	TkrRecon.h 
+Log Message:
+Added pointer access to TkrVecPointInfo so that it can be set
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-20-08-17, operation: add
 Package: reconRootData
