@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jun 25 10:17:18 PDT 2013
+reconRootData/src
+
+Modified Files:
+	TkrTruncationData.cxx 
+Log Message:
+try clearing out TkrTruncationData when re-using object
+    *
+------------------------------------------------------------
 User: heather  Tue Jun 25 10:17:17 PDT 2013
 reconRootData/doc
 
