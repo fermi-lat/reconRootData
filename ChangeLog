@@ -1,31 +1,4 @@
 ------------------------------------------------------------
-User: heather  Tue Jun 25 10:17:17 PDT 2013
-reconRootData/doc
-
-Modified Files:
-	release.notes 
-Log Message:
-try clearing out TkrTruncationData when re-using object
-    *
-------------------------------------------------------------
-User: heather  Tue Jun 25 10:17:17 PDT 2013
-reconRootData/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-try clearing out TkrTruncationData when re-using object
-    *
-------------------------------------------------------------
-User: heather  Tue Jun 25 10:17:16 PDT 2013
-reconRootData
-
-Modified Files:
-	SConscript 
-Log Message:
-try clearing out TkrTruncationData when re-using object
-    *
-------------------------------------------------------------
 TAG
 Tag name: reconRootData-12-01-03, operation: add
 Package: reconRootData
