@@ -1,5 +1,91 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-20-09-00, operation: add
+Package: reconRootData
+User: heather  Mon Jul  1 23:42:44 2013
+Files:
+  reconRootData/.cvsignore  1.5
+  reconRootData/ChangeLog  1.1255
+  reconRootData/SConscript  1.55
+  reconRootData/reconRootDataLib.py  1.3
+  reconRootData/cmt/recon-v9r11-v5r10.root  1.2
+  reconRootData/cmt/.cvsignore  1.3
+  reconRootData/cmt/recon-v9r26-v5r26.root  1.2
+  reconRootData/cmt/recon-v9r25-v5r26.root  1.1
+  reconRootData/cmt/requirements  1.182
+  reconRootData/cmt/recon-v9r11-v5r14.root  1.2
+  reconRootData/cmt/Makefile  1.1.1.1
+  reconRootData/data/recon-v9r11-v5r10.root  1.1
+  reconRootData/data/recon-v9r26-v5r26.root  1.1
+  reconRootData/data/recon-v9r25-v5r26.root  1.1
+  reconRootData/data/recon-v9r11-v5r14.root  1.1
+  reconRootData/data/recon-v12r0-v5r34.root  1.1
+  reconRootData/doc/release.notes  1.160
+  reconRootData/doc/reconRootData.html  1.1
+  reconRootData/doc/Doxyfile  1.3
+  reconRootData/doc/images/reconTree.gif  1.2
+  reconRootData/doc/styles/site.css  1.1
+  reconRootData/reconRootData/CalXtalRecData.h  1.16
+  reconRootData/reconRootData/TkrVecPoint.h  1.1
+  reconRootData/reconRootData/ReconEvent.h  1.12
+  reconRootData/reconRootData/AcdTkrHitPocaV2.h  1.5
+  reconRootData/reconRootData/TreeClusterRelation.h  1.5
+  reconRootData/reconRootData/TkrRecon.h  1.30
+  reconRootData/reconRootData/AcdEventTopology.h  1.5
+  reconRootData/reconRootData/CalMSTreeParams.h  1.6
+  reconRootData/reconRootData/AcdTkrPoca.h  1.3
+  reconRootData/reconRootData/AcdTkrGapPocaV2.h  1.3
+  reconRootData/reconRootData/CalRecon.h  1.17
+  reconRootData/reconRootData/AcdHit.h  1.5
+  reconRootData/reconRootData/CalRangeRecData.h  1.14
+  reconRootData/reconRootData/TkrDiagnostics.h  1.7
+  reconRootData/reconRootData/CalXtalsParams.h  1.7
+  reconRootData/reconRootData/TkrVecNodesCompressed.h  1.2
+  reconRootData/reconRootData/AcdAssoc.h  1.4
+  reconRootData/reconRootData/LinkDef.h  1.30
+  reconRootData/reconRootData/TkrFilterParams.h  1.3
+  reconRootData/reconRootData/AdfRecon.h  1.6
+  reconRootData/reconRootData/TkrTruncationData.h  1.6
+  reconRootData/reconRootData/CalClusterLayerData.h  1.9
+  reconRootData/reconRootData/CalClassParams.h  1.6
+  reconRootData/reconRootData/TkrTreeCompressed.h  1.2
+  reconRootData/reconRootData/CalParams.h  1.11
+  reconRootData/reconRootData/TkrVertex.h  1.19
+  reconRootData/reconRootData/GcrXtal.h  1.4
+  reconRootData/reconRootData/TkrTrackParams.h  1.10
+  reconRootData/reconRootData/AcdPocaDataV2.h  1.3
+  reconRootData/reconRootData/TkrTrack.h  1.24
+  reconRootData/reconRootData/AcdTkrHitPoca.h  1.3
+  reconRootData/reconRootData/AcdTkrIntersection.h  1.10
+  reconRootData/reconRootData/CalMipTrack.h  1.9
+  reconRootData/reconRootData/AcdTkrPoint.h  1.4
+  reconRootData/reconRootData/GcrTrack.h  1.3
+  reconRootData/reconRootData/CalCluster.h  1.35
+  reconRootData/reconRootData/TkrVecPointInfo.h  1.2
+  reconRootData/reconRootData/AcdRecon.h  1.36
+  reconRootData/reconRootData/CalFitParams.h  1.6
+  reconRootData/reconRootData/TkrVecNodes.h  1.5
+  reconRootData/reconRootData/TkrTree.h  1.5
+  reconRootData/reconRootData/TkrVecPointsLink.h  1.3
+  reconRootData/reconRootData/TkrCluster.h  1.14
+  reconRootData/reconRootData/AcdSplashVars.h  1.3
+  reconRootData/reconRootData/AcdTkrLocalCoords.h  1.4
+  reconRootData/reconRootData/CalEventEnergy.h  1.4
+  reconRootData/reconRootData/.cvsignore  1.1
+  reconRootData/reconRootData/AcdTkrGapPoca.h  1.3
+  reconRootData/reconRootData/CalCorToolResult.h  1.9
+  reconRootData/reconRootData/AcdTkrLocalCoordsV2.h  1.4
+  reconRootData/reconRootData/AcdPocaData.h  1.3
+  reconRootData/reconRootData/TkrTrackHit.h  1.11
+  reconRootData/reconRootData/AcdReconV2.h  1.4
+  reconRootData/reconRootData/CalMomParams.h  1.8
+  reconRootData/reconRootData/TkrEventParams.h  1.3
+  reconRootData/reconRootData/TaggerCluster.h  1.4
+  reconRootData/reconRootData/AcdTkrPointV2.h  1.3
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-20-08-18, operation: add
 Package: reconRootData
 User: heather  Fri Jun 28 10:11:40 2013
