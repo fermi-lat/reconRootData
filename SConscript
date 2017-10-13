@@ -60,7 +60,7 @@ reconRootDataRootcint = libEnv.Rootcint('reconRootData/reconRootData_rootcint',
                                          'reconRootData/GcrXtal.h',
                                          'reconRootData/GcrTrack.h',
 					 'reconRootData/LinkDef.h'], 
-                                        includes = [''],
+                                        includes = ['', '../include'],
                                         localIncludes = locIncs,
                                         packageName = "reconRootData")
 
